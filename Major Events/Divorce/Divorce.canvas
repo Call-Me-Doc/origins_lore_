@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"b3170c580ff3688d","x":411,"y":-563,"width":400,"height":225,"type":"file","file":"Major Events/Divorce/Divorce/Court part 1.mkv"},
+		{"id":"7c34876beb9ce711","x":101,"y":-227,"width":400,"height":225,"type":"file","file":"Major Events/Divorce/Divorce/Court Part 2.mkv"},
+		{"id":"38530eaf84a437db","x":-379,"y":-941,"width":400,"height":225,"type":"file","file":"Major Events/Divorce/Divorce/Court Preperations.mkv"},
+		{"id":"3376f556b541a8ca","x":-379,"y":-716,"width":400,"height":60,"type":"text","text":"a record of [[Doc]] and [[TheVibeGod]]'s plans to win the divorce"},
+		{"id":"81f487397e3b5ca4","x":-379,"y":-449,"width":346,"height":222,"color":"5","type":"text","text":"Summary:\nJustin was a shitty husband to [[TheVibeGod]], and [[TheVibeGod]] decided to get a divorce, nobody liked the outcome. \n\nthe outcome being that Justin was taken to forced rehab, and [[TheVibeGod]] had their custody of their kids taken"}
+	],
+	"edges":[
+		{"id":"bceb85ac60571a71","fromNode":"38530eaf84a437db","fromSide":"right","toNode":"b3170c580ff3688d","toSide":"left"},
+		{"id":"8aaae2e2eb4ae63e","fromNode":"b3170c580ff3688d","fromSide":"bottom","toNode":"7c34876beb9ce711","toSide":"right"},
+		{"id":"24dd6069f8155bde","fromNode":"81f487397e3b5ca4","fromSide":"top","toNode":"b3170c580ff3688d","toSide":"left"}
+	]
+}
