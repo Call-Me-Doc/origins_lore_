@@ -1,3 +1,0 @@
-
-
-Friends with [[Masengp9]]
