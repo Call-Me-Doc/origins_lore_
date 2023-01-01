@@ -1,1 +1,1 @@
-A very old god of war that revels in bloodshed, basically a genocidal maniac that only likes murder, torture, and food. Kind of an asshole, aqauintances with Noble.
+A very old god of war that revels in bloodshed, basically a genocidal maniac that only likes murder, torture, and food. Kind of an asshole, aqauintances with [[Noble_Oraiste]].
