@@ -1,0 +1,1 @@
+Subject 54 is a hub and trading center for most, and a hub for few. this includes [[CallMeDoc_]], the builder of the location, as well as [[Noble_Oraiste]], Karma, and Venti.
