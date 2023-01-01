@@ -1,3 +1,5 @@
-"AHHHH! I BURN IN DAYLIGHT"
+"AHHHH! I BURN IN DAYLIGHT" -Probably the first thing Noble said after dying
 
-lil doodly man
+[[Alacramo]] is attempting to ressurect him.
+  \Noble despises this, as he would rather stay dead.
+
