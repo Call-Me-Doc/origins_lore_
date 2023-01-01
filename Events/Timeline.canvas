@@ -10,8 +10,8 @@
 		{"id":"1a60311481901009","x":-3116,"y":-58,"width":250,"height":60,"type":"text","text":"Season 1"},
 		{"id":"16e8258869c5ce6e","x":-3732,"y":-58,"width":250,"height":60,"type":"text","text":"Creation of the Cordova"},
 		{"id":"478381271a5a13f2","x":-1086,"y":-83,"width":250,"height":111,"type":"text","text":"Season 2 Residents:\nAll Players listed in [[The World (Cordova)]]"},
-		{"id":"352cc0f47ef08bee","x":-3419,"y":-104,"width":250,"height":152,"type":"text","text":"Season 2 [[Masengp9]], [[CJ_The_Mage]], [[Noble_Oraiste]], [[Unby]], and [[DarthWaffle]] come into existence"},
-		{"id":"0658519e74bc957d","x":-1462,"y":-98,"width":266,"height":141,"type":"text","text":"Season 2 Residents (Excluding [[Noble_Oraiste]], [[Unby]], [[CJ_The_Mage]], [[Masengp9]], and [[DarthWaffle]]) are born"}
+		{"id":"352cc0f47ef08bee","x":-3419,"y":-104,"width":250,"height":152,"type":"text","text":"Season 2 [[Masengp9]], [[CJ_The_Mage]], [[Noble_Oraiste]], [[The_Unbeliever_]], and [[DarthWaffle]] come into existence"},
+		{"id":"0658519e74bc957d","x":-1462,"y":-98,"width":266,"height":141,"type":"text","text":"Season 2 Residents (Excluding [[Noble_Oraiste]], [[The_Unbeliever_]], [[CJ_The_Mage]], [[Masengp9]], and [[DarthWaffle]]) are born"}
 	],
 	"edges":[
 		{"id":"f4d4a0d35ab5f8ee","fromNode":"12b3dfbbef2be4e1","fromSide":"right","toNode":"619a17e8d10aa367","toSide":"left"},
