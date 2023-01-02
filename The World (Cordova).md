@@ -7,8 +7,18 @@ Locations
  [[Project3c]]
  [[Subject 52]]
  [[Subject 54]]
+ [[Subject 55]]
  [[Tree Shrine]]
  [[Cock Blocked Church]]
+ [[The Floating Isles]]
+ 
+ Shops
+  [[Bakery Leblanc]]
+  [[Black Market]]
+  [[Cafe Leblanc]]
+  [[Calder's Furniture Store]]
+  [[Doc's Oddities]]
+  [[Noble Blacksmithing]]
  ////////////////////////////
 
 Players: 
@@ -27,4 +37,5 @@ Players:
  [[VoidCatYT]]
  [[Masengp9]]
  [[ThePolandRock]]
+ [[The_Unbeliever_]]
  //////////////////////////
