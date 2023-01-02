@@ -13,5 +13,5 @@ Aliases
 
 Relevant Story Notes 
  [[Alacramo]] is attempting to ressurect him.
-  \Noble despises this, as he would rather stay dead.
+  Noble despises this, as he would rather stay dead.
 

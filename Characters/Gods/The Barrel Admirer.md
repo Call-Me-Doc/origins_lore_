@@ -1,0 +1,3 @@
+_The barrel admirer is the Cordovan equivalent of Santa and Krampus._ 
+
+The Barrel Admirer steals adult cows from the locals and drags them back to his workshop to make barrels out of. Then, he decorates the locals' Christmas tree with barrels, included with a slightly offset star. And finally, he leaves chests under the tree with popular names on them so the locals can gift people items in a way more suited for Christmas tradition. And during this whole process, he leaves signs to show that it was due to "**Your Barrel Admirer.**" that these locals are able to have Christmas this year, once again...
