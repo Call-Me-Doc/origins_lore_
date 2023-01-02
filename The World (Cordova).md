@@ -5,9 +5,11 @@ Factions:
 
 Locations
  [[Project3c]]
+ [[Subject 51]]
  [[Subject 52]]
  [[Subject 54]]
  [[Subject 55]]
+ [[Venti's Home]]
  [[Tree Shrine]]
  [[Cock Blocked Church]]
  [[The Floating Isles]]
@@ -43,4 +45,4 @@ Players:
 [[Gods]]:
  [[Noble_Oraiste]]
  [[The_Unbeliever_]]
- [[The Barrel Admirer]]
+ [[The Barrel Admirer]]?

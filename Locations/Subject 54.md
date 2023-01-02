@@ -8,7 +8,6 @@ Residents:
  [[Venti]]
  ////////////////////////
 
-
 Shops:
  [[Bakery Leblanc]]
  [[Cafe Leblanc]]
@@ -17,3 +16,7 @@ Shops:
  [[Noble Blacksmithing]]
  [[Black Market]]
  /////////////////////////
+
+Homes
+ [[Venti's Home]]
+ [[Subject 55]]

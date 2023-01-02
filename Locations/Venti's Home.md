@@ -1,0 +1,1 @@
+A cozy hole tucked into one of the walls of [[Subject 54]], originally planned to be a shop made by [[CJ_The_Mage]], ended up being a home for [[Venti]]. 
