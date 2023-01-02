@@ -13,6 +13,7 @@ Locations
  [[Tree Shrine]]
  [[Cock Blocked Church]]
  [[The Floating Isles]]
+ ////////////////////////////
  
  Shops
   [[Bakery Leblanc]]
@@ -21,7 +22,7 @@ Locations
   [[Calder's Furniture Store]]
   [[Doc's Oddities]]
   [[Noble Blacksmithing]]
- ////////////////////////////
+  ////////////////////////////
 
 Players: 
  [[Alacramo]]
@@ -46,3 +47,4 @@ Players:
  [[Noble_Oraiste]]
  [[The_Unbeliever_]]
  [[The Barrel Admirer]]?
+ ////////////////////////

@@ -1,5 +1,10 @@
-"Doc" They / Them  
+They / Them  
 \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
+Aliases
+ Doc
+ The Nonbinary ho (- [[Noble_Oraiste]] the second he added this section)
+Origin: Inchling
+
 
 // Decent person
 

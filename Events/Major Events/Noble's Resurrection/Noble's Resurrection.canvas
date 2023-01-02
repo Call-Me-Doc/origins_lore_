@@ -1,1 +1,11 @@
-{}
+{
+	"nodes":[
+		{"id":"c0180f96a7d6a62b","x":-425,"y":-272,"width":284,"height":221,"type":"text","text":"[[Alacramo]] Heard something about a dead true demon lord's soul floating around somewhere a while back. After realizing the possible chaos to be made, he decided that he might be able to figure out how to revive the demon lord."},
+		{"id":"413a4122aaf3a10b","x":-408,"y":18,"width":250,"height":67,"type":"text","text":"(The demon lord actually being the god, [[Noble_Oraiste]])"},
+		{"id":"25e1fb5089cafaf0","x":-60,"y":-302,"width":250,"height":281,"type":"text","text":"[[Alacramo]] researched ways of reviving a lost soul but he eventually came to the conclusion that the only way he was gonna end up being able to revive them was by sacrificing himself to the world. A matter of equivelent exchange, causing him to build an alter for the sacrifice."}
+	],
+	"edges":[
+		{"id":"476854b001497bdb","fromNode":"c0180f96a7d6a62b","fromSide":"bottom","toNode":"413a4122aaf3a10b","toSide":"top"},
+		{"id":"1c345a994b821032","fromNode":"c0180f96a7d6a62b","fromSide":"right","toNode":"25e1fb5089cafaf0","toSide":"left"}
+	]
+}

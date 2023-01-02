@@ -5,6 +5,7 @@ Aliases
  Poseidon
  Bitch Boy
  The Dead god
+Origin: Phantom
 
 "AHHHH! I BURN IN DAYLIGHT" -Probably the first thing Noble said after dying
 

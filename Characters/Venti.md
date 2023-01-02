@@ -3,8 +3,9 @@ Aliases
  Rori
  Venti
 "It's because I'm gay, isn't it?"
+Origin: Truffle
 
-\\\\\\\\\\\\\\\\\\\\\\\
+///////////////////////////////////
 // Can talk to cats
 // a mushroom creature obsessed with booze
 // claims to be the God of the Wind but is definitely not

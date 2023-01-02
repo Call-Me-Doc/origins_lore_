@@ -4,6 +4,8 @@ Aliases
  Jack
  Ankle Biter
  Red Ant (By [[Noble_Oraiste]])
+Origin: Inchling
+
 
 // Chaotic Gremlin
 // Founder of [[Church Of The CockBlock]]

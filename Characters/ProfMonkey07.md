@@ -4,6 +4,7 @@ Aliases
  Calder
  "A goat"
  Monkey man (By [[CJ_The_Mage]])
+Origin: Goat
 
 goatlin, loves heights and jumping from them
 worshipper of tree god

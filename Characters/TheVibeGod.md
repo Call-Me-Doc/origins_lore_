@@ -5,4 +5,6 @@ Aliases
  Bee
  Vibe
 
+Origin: Shulk
+
 [[Nugget_Lord]]'s ex spouce
