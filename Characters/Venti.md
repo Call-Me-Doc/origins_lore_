@@ -1,4 +1,8 @@
 She / They
+Aliases
+ Rori
+ Venti
+"It's because I'm gay, isn't it?"
 
 \\\\\\\\\\\\\\\\\\\\\\\
 // Can talk to cats
