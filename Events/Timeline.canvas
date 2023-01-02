@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"c15c82dc5680023e","x":-2153,"y":-58,"width":250,"height":60,"type":"text","text":"???"},
+		{"id":"519c94e12f0cddeb","x":-1816,"y":-58,"width":250,"height":60,"type":"text","text":"Season 2"},
+		{"id":"438764455ae9f727","x":-2814,"y":-58,"width":250,"height":60,"type":"text","text":"Season 1 characters are born"},
+		{"id":"1a60311481901009","x":-3116,"y":-58,"width":250,"height":60,"type":"text","text":"Season 1"},
+		{"id":"16e8258869c5ce6e","x":-3732,"y":-58,"width":250,"height":60,"type":"text","text":"Creation of the Cordova"},
+		{"id":"352cc0f47ef08bee","x":-3419,"y":-117,"width":250,"height":178,"type":"text","text":"Season 2 [[Masengp9]], [[CJ_The_Mage]], [[Noble_Oraiste]], [[The_Unbeliever_]], and [[DarthWaffle]] come into existence"},
+		{"id":"a858c51d63dd7699","x":-2476,"y":-189,"width":261,"height":323,"type":"text","text":"First Residents\n[[Noble_Oraiste]]\n[[CJ_The_Mage]] (Seperate Char)\n[[Raspberry]] (Seperate Char)\n[[VoidCatYT]] (Seperate Char)\n[[Masengp9]] (Seperate Char)\n[[ThePolandRock]] ? Not sure. (Seperate Char)"},
+		{"id":"0658519e74bc957d","x":-1469,"y":-130,"width":266,"height":206,"type":"text","text":"Season 2 Residents (Excluding [[Noble_Oraiste]], [[The_Unbeliever_]], [[CJ_The_Mage]], [[Masengp9]], and [[DarthWaffle]]) are born"},
+		{"id":"478381271a5a13f2","x":-1028,"y":-83,"width":250,"height":111,"type":"text","text":"Season 2 Residents:\nAll Players listed in [[The World (Cordova)]]"},
+		{"id":"6256898dabef15c6","x":4,"y":-89,"width":250,"height":122,"type":"text","text":"Subject 54's Creation\nContributors:\n[[CallMeDoc_]]\n[[Noble_Oraiste]]"},
+		{"id":"619a17e8d10aa367","x":491,"y":-228,"width":400,"height":400,"type":"file","file":"Events/Major Events/Noble's Resurrection/Noble's Resurrection.canvas"},
+		{"id":"12b3dfbbef2be4e1","x":-574,"y":-228,"width":400,"height":400,"type":"file","file":"Events/Major Events/The Holy War/The Holy War.canvas"},
+		{"id":"298e7cc9e270c6ee","x":1117,"y":-228,"width":400,"height":400,"type":"file","file":"Events/Major Events/Divorce/Divorce.canvas"},
+		{"id":"c099b54881307a9f","x":1067,"y":-383,"width":250,"height":60,"type":"text","text":"[[Nugget_Lord]]'s Rehab"}
+	],
+	"edges":[
+		{"id":"8104f15b3a36ed3e","fromNode":"619a17e8d10aa367","fromSide":"right","toNode":"298e7cc9e270c6ee","toSide":"left"},
+		{"id":"14012a99d9e9e535","fromNode":"352cc0f47ef08bee","fromSide":"right","toNode":"1a60311481901009","toSide":"left"},
+		{"id":"afeab5835a81d221","fromNode":"a858c51d63dd7699","fromSide":"right","toNode":"c15c82dc5680023e","toSide":"left"},
+		{"id":"1ecd15eb50983a6f","fromNode":"c15c82dc5680023e","fromSide":"right","toNode":"519c94e12f0cddeb","toSide":"left"},
+		{"id":"2f9dfd4acc75930a","fromNode":"438764455ae9f727","fromSide":"right","toNode":"a858c51d63dd7699","toSide":"left"},
+		{"id":"f502698a98cf25e2","fromNode":"0658519e74bc957d","fromSide":"right","toNode":"478381271a5a13f2","toSide":"left"},
+		{"id":"f428f93906ccb5bd","fromNode":"478381271a5a13f2","fromSide":"right","toNode":"12b3dfbbef2be4e1","toSide":"left"},
+		{"id":"df8649ad46db5e96","fromNode":"1a60311481901009","fromSide":"right","toNode":"438764455ae9f727","toSide":"left"},
+		{"id":"731abb04be07c5bb","fromNode":"16e8258869c5ce6e","fromSide":"right","toNode":"352cc0f47ef08bee","toSide":"left"},
+		{"id":"87bdcb29b78b73d2","fromNode":"519c94e12f0cddeb","fromSide":"right","toNode":"0658519e74bc957d","toSide":"left"},
+		{"id":"abae2253379f6774","fromNode":"298e7cc9e270c6ee","fromSide":"top","toNode":"c099b54881307a9f","toSide":"bottom"},
+		{"id":"f39584fdb450a823","fromNode":"12b3dfbbef2be4e1","fromSide":"right","toNode":"6256898dabef15c6","toSide":"left"},
+		{"id":"074b6015e2813c9a","fromNode":"6256898dabef15c6","fromSide":"right","toNode":"619a17e8d10aa367","toSide":"left"}
+	]
+}

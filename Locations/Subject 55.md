@@ -1,0 +1,1 @@
+A temple/library made by [[Noble_Oraiste]]
