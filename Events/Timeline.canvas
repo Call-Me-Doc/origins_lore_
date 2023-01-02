@@ -9,12 +9,12 @@
 		{"id":"a858c51d63dd7699","x":-2476,"y":-189,"width":261,"height":323,"type":"text","text":"First Residents\n[[Noble_Oraiste]]\n[[CJ_The_Mage]] (Seperate Char)\n[[Raspberry]] (Seperate Char)\n[[VoidCatYT]] (Seperate Char)\n[[Masengp9]] (Seperate Char)\n[[ThePolandRock]] ? Not sure. (Seperate Char)"},
 		{"id":"0658519e74bc957d","x":-1469,"y":-130,"width":266,"height":206,"type":"text","text":"Season 2 Residents (Excluding [[Noble_Oraiste]], [[The_Unbeliever_]], [[CJ_The_Mage]], [[Masengp9]], and [[DarthWaffle]]) are born"},
 		{"id":"478381271a5a13f2","x":-1028,"y":-83,"width":250,"height":111,"type":"text","text":"Season 2 Residents:\nAll Players listed in [[The World (Cordova)]]"},
-		{"id":"6256898dabef15c6","x":-222,"y":-475,"width":250,"height":122,"type":"text","text":"[[Subject 54]]'s Creation\nContributors:\n[[CallMeDoc_]]\n[[Noble_Oraiste]]"},
-		{"id":"716c9dc81e8ebb9e","x":1242,"y":-595,"width":250,"height":100,"type":"text","text":"[[Nugget_Lord]]'s skin change from Crackhead Jesus to a more sober looking Jesus"},
-		{"id":"c099b54881307a9f","x":1242,"y":-411,"width":250,"height":60,"type":"text","text":"[[Nugget_Lord]]'s Rehab"},
+		{"id":"6256898dabef15c6","x":-222,"y":-475,"width":250,"height":140,"type":"text","text":"[[Subject 54]]'s Creation\n\nContributors:\n[[CallMeDoc_]]\n[[Noble_Oraiste]]"},
 		{"id":"12b3dfbbef2be4e1","x":-497,"y":-228,"width":400,"height":400,"type":"file","file":"Events/Major Events/The Holy War/The Holy War.canvas"},
 		{"id":"298e7cc9e270c6ee","x":630,"y":-197,"width":400,"height":400,"type":"file","file":"Events/Major Events/Divorce/Divorce.canvas"},
-		{"id":"619a17e8d10aa367","x":59,"y":203,"width":400,"height":400,"type":"file","file":"Events/Major Events/Noble's Resurrection/Noble's Resurrection.canvas"}
+		{"id":"619a17e8d10aa367","x":59,"y":203,"width":400,"height":400,"type":"file","file":"Events/Major Events/Noble's Resurrection/Noble's Resurrection.canvas"},
+		{"id":"716c9dc81e8ebb9e","x":1030,"y":-595,"width":250,"height":100,"type":"text","text":"[[Nugget_Lord]]'s skin change from Crackhead Jesus to a more sober looking Jesus"},
+		{"id":"c099b54881307a9f","x":1030,"y":-411,"width":250,"height":60,"type":"text","text":"[[Nugget_Lord]]'s Rehab"}
 	],
 	"edges":[
 		{"id":"14012a99d9e9e535","fromNode":"352cc0f47ef08bee","fromSide":"right","toNode":"1a60311481901009","toSide":"left"},

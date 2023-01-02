@@ -25,6 +25,7 @@ Locations
   ////////////////////////////
 
 Players: 
+use [[Person Template]] to create or modify charaters, bc i didnt spend like 20 mins making this for nothing
  [[Alacramo]]
  [[CallMeDoc_]]
  [[DarthWaffle]]
