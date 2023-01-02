@@ -39,3 +39,8 @@ Players:
  [[ThePolandRock]]
  [[The_Unbeliever_]]
  //////////////////////////
+
+[[Gods]]:
+ [[Noble_Oraiste]]
+ [[The_Unbeliever_]]
+ [[The Barrel Admirer]]
