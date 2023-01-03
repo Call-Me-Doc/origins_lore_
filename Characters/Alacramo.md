@@ -13,3 +13,11 @@ Traits
 
 Relavent Story Points
  Main Goal: Revive [[Noble_Oraiste]]
+
+
+Relationships
+ [[CallMeDoc_]]'s half brother (Mother side)
+ [[Alacramo's Mother]] Mother?
+
+Quotes
+ "I'm going to bite your ankles"
