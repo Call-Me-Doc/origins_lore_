@@ -1,0 +1,2 @@
+[[VoidCatYT]] was in possesion of an immense amount of illegal drugs. The drugs were located in a secret base, 600k blocks away from spawn named, Chaos Hideout
+[[Noble_Oraiste]], [[Raspberry1111]], [[ProfMonkey07]]?, and [[Alacramo]] conducted a Search&Raid on Chaos Hideout. They snuck into the base, did all the drugs, and promptly covered Chaos Hideout in immense amounts of lava as a trap for [[VoidCatYT]].

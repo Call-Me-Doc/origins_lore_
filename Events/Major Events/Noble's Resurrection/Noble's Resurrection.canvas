@@ -2,10 +2,12 @@
 	"nodes":[
 		{"id":"c0180f96a7d6a62b","x":-425,"y":-272,"width":284,"height":227,"type":"text","text":"[[Alacramo]] Heard something about a dead true demon lord's soul floating around somewhere a while back. After realizing the possible chaos to be made, he decided that he might be able to figure out how to revive the demon lord."},
 		{"id":"413a4122aaf3a10b","x":-425,"y":19,"width":284,"height":86,"type":"text","text":"(The demon lord actually being the god of luck, [[Noble_Oraiste]])"},
-		{"id":"25e1fb5089cafaf0","x":-63,"y":-299,"width":250,"height":281,"type":"text","text":"[[Alacramo]] researched ways of reviving a lost soul but he eventually came to the conclusion that the only way he was gonna end up being able to revive them was by sacrificing himself to the world. A matter of equivelent exchange, causing him to build an alter for the sacrifice."}
+		{"id":"e81d5fc968072630","x":231,"y":-258,"width":400,"height":200,"type":"file","file":"Locations/The Underdark.md"},
+		{"id":"25e1fb5089cafaf0","x":-89,"y":-294,"width":276,"height":272,"type":"text","text":"[[Alacramo]] researched ways of reviving a lost soul but he eventually came to the conclusion that the only way he was gonna end up being able to revive them was by sacrificing himself to the world. A matter of equivelent exchange, causing him to build an alter for the sacrifice."}
 	],
 	"edges":[
 		{"id":"476854b001497bdb","fromNode":"c0180f96a7d6a62b","fromSide":"bottom","toNode":"413a4122aaf3a10b","toSide":"top"},
-		{"id":"1c345a994b821032","fromNode":"c0180f96a7d6a62b","fromSide":"right","toNode":"25e1fb5089cafaf0","toSide":"left"}
+		{"id":"1c345a994b821032","fromNode":"c0180f96a7d6a62b","fromSide":"right","toNode":"25e1fb5089cafaf0","toSide":"left"},
+		{"id":"22383fe4da560628","fromNode":"25e1fb5089cafaf0","fromSide":"right","toNode":"e81d5fc968072630","toSide":"left"}
 	]
 }

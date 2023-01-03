@@ -44,6 +44,10 @@ Players:
  [[The_Unbeliever_]]
  //////////////////////////
 
+Npcs
+ [[The Barrel Admirer]]
+ [[Alacramo]]
+
 [[Gods]]:
  [[Noble_Oraiste]]
  [[The_Unbeliever_]]
