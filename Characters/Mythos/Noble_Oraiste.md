@@ -9,6 +9,7 @@ Origin: Phantom
 
 Traits
  Knows who [[The Barrel Admirer]] is
+ A casualty of the war beyween [[Ancient Builders]] and [[Gods]]
 
 Relevant Story Notes 
  Has access to [[The Console]]
