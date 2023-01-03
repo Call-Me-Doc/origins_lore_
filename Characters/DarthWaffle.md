@@ -1,18 +1,20 @@
 No pronouns (He / Him)
-Aliases
+
+Aliases:
  Waffle
  Gabe
  Fairy Bitch (By [[Noble_Oraiste]])
+ 
 Origin: Tree?
 
-Traits
- is a fairy
+Traits:
+ // is a fairy
 
-Relavent Story Points
+Relavent Story Points:
  [[The Holy War.canvas]]
 
-Relationships
- Worshipped by [[ProfMonkey07]]
+Relationships:
+ // Worshipped by [[ProfMonkey07]]
 
-Quotes
+Quotes:
  "My glasses are thicker than a supermodel"

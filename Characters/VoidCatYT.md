@@ -1,17 +1,18 @@
-he/him
-Aliases
+He / Him
+
+Aliases:
  Void
  Ben
 
 Origin: Dragon
 
-Traits
- Lucky he isn't banned
+Traits:
+ // Lucky he isn't banned
 
-Relavent Story Point
- [[The FBI Raid]]
+Relavent Story Points:
+ // [[The FBI Raid]]
 
-Relationships
- Friends with [[Raspberry1111]], probably
+Relationships:
+ // Friends with [[Raspberry1111]], probably
 
-Quotes
+Quotes:

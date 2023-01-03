@@ -1,17 +1,19 @@
-He/Him
-Aliases
+He / Him
+
+Aliases:
  Raspberry
  Cruz
  Ask Calder
  The smartest person in the server (By [[Noble_Oraiste]])
+ 
 Origin: Truffle
 
-Traits
+Traits:
 
-Relavent Story Point
- Has limited access to [[The Console]] via [[Project3c]]
+Relavent Story Points:
+ // Has limited access to [[The Console]] via [[Project3c]]
 
-Relationships
- Frequent business partners with [[Noble_Oraiste]]
+Relationships:
+ // Frequent business partners with [[Noble_Oraiste]]
 
-Quotes
+Quotes:

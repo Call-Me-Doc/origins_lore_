@@ -1,16 +1,18 @@
-he/him
-Aliases
+He / Him
+
+Aliases:
  Masen
  Maken
  Mosan (By [[Noble_Oraiste]] and [[CJ_The_Mage]])
+ 
 Origin: Ancient Builder
 
-Traits
+Traits:
 
-Relavent Story Point
+Relavent Story Point:
 
-Relationships
+Relationships:
  Friends (Brothers?) with [[CJ_The_Mage]]
 
-Quotes
+Quotes:
 

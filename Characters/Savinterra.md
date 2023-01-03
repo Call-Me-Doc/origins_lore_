@@ -1,15 +1,16 @@
 
-Aliases
+Aliases:
  Jordan
  Sav
+ 
 Origin: Twisted branch
 
 
-Traits
+Traits:
 
-Relavent Story Point
+Relavent Story Point:
 
-Relationships
+Relationships:
  Technically worshipping [[Noble_Oraiste]]
 
-Quotes
+Quotes:

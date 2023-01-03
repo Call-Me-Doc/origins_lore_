@@ -1,5 +1,6 @@
 Any Pronouns (exept "it)
-Aliases
+
+Aliases:
  Ari
  God (by [[Noble_Oraiste]])
  Bee
@@ -7,15 +8,15 @@ Aliases
 
 Origin: Shulk
 
-Traits
+Traits:
 
-Relavent Story Point
- [[Divorce.canvas]]
+Relavent Story Points:
+ // [[Divorce.canvas]]
 
-Relationships
- [[Nugget_Lord]]'s ex-spouse
+Relationships:
+ // [[Nugget_Lord]]'s ex-spouse
 
-Quotes
+Quotes:
  "Don't worry, the mice are dead"
  "Shulkers are canonically made of Lean?"
 

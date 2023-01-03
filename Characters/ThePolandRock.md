@@ -2,10 +2,10 @@ Stand in name. I don't remember mc user.
 
 Origin: Jesus
 
-Traits
+Traits:
 
-Relavent Story Point
+Relavent Story Points:
 
-Relationships
+Relationships:
 
-Quotes
+Quotes:

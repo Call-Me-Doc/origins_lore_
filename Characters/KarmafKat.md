@@ -1,12 +1,14 @@
 She / They
-Aliases
+
+Aliases:
  Karma
+ 
 Origin: {PlaceHolder}
 
-Traits
+Traits:
 
-Relavent Story Point
+Relavent Story Points:
 
-Relationships
+Relationships:
 
-Quotes
+Quotes:

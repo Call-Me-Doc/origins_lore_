@@ -1,5 +1,6 @@
+He / Him (?)
 
-Aliases
+Aliases:
  Nugget
  Justin
  Jesus
@@ -7,15 +8,15 @@ Aliases
 
 Origin: Jesus
 
-Traits
+Traits:
  
 
-Relavent Story Point
-// divorced [[TheVibeGod]] and lost custody of the kids.
+Relavent Story Points:
+  // divorced [[TheVibeGod]] and lost custody of the kids.
 
-Relationships
-//[[TheVibeGod]]  EX-Wife.
-//[[Alacramo]] works in bar and farm together.
+Relationships:
+  //[[TheVibeGod]]  EX-Wife.
+  //[[Alacramo]] works in bar and farm together.
 
-Quotes
-"Balls" -Justin
+Quotes:
+"Balls" 

@@ -1,11 +1,12 @@
 They / Them  
 \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
-Aliases
+Aliases"
  Doc
  The Nonbinary ho (- [[Noble_Oraiste]] the second he added this section)
+
 Origin: Inchling
 
-Traits
+Traits:
  // Decent person
 
  // Wants money, but cares about other's opinions of them more
@@ -24,17 +25,21 @@ Traits
 
  // Still not entirely sure on why the two religions insist on fighting each other
 
-Relavent Story Points
+Relavent Story Points:
  //Created most of [[Subject 54]] with [[Noble_Oraiste]]
 
-Relationships
+Relationships:
  // Terrified of [[The_Unbeliever_]]
 
  // [[Alacramo]]'s sibling (mother's side, doesn't realize [[Alacramo]] is their sibling)
 
  // [[Noble_Oraiste]]'s child (does not know)
 
-Quotes
+ // Friends with [[KarmafKat]]
+
+Quotes:
  //"as long as you don't break anyone else's shit, I don't really care" - Doc, after being asked if someone could build at [[Subject 54]] for the 3rd time that day
+ 
  //"If they're not at least 85% lean, they're not shulkers"
+ 
  //"HOW ARE YOU UNCONCIOUS, YOU GOT HIT BY MISSILES"
