@@ -57,4 +57,4 @@ Npcs
  [[The Barrel Admirer]]?
 
 Fu Facts:
- It is mandatory to go through sword training by time you're 16 in Cordova
+ It is mandatory to go through sword training by the time you're 16 in Cordova
