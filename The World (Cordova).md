@@ -28,7 +28,7 @@ Shops
  [[Kachino]]
 
 Players: 
- use [[Person Template]] to create or modify charaters, bc i didnt spend like 20 mins making this for nothing
+ use [[Person Template]] to create or modify charaters, bc i didnt spend like 20 mins making this for nothing.
  [[Alacramo]]
  [[CallMeDoc_]]
  [[DarthWaffle]]
@@ -56,5 +56,6 @@ Npcs
  [[The_Unbeliever_]]
  [[The Barrel Admirer]]?
 
-Fu Facts:
- It is mandatory to go through sword training by the time you're 16 in Cordova
+Fun Facts:
+ It is mandatory to go through sword training by the time you're 16 in Cordova.
+ To stop a paradox and thing paradoxical becomes lean.
