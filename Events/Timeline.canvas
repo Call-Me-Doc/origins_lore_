@@ -13,8 +13,9 @@
 		{"id":"12b3dfbbef2be4e1","x":-497,"y":-228,"width":400,"height":400,"type":"file","file":"Events/Major Events/The Holy War/The Holy War.canvas"},
 		{"id":"298e7cc9e270c6ee","x":630,"y":-197,"width":400,"height":400,"type":"file","file":"Events/Major Events/Divorce/Divorce.canvas"},
 		{"id":"619a17e8d10aa367","x":59,"y":203,"width":400,"height":400,"type":"file","file":"Events/Major Events/Noble's Resurrection/Noble's Resurrection.canvas"},
-		{"id":"716c9dc81e8ebb9e","x":1030,"y":-595,"width":250,"height":100,"type":"text","text":"[[Nugget_Lord]]'s skin change from Crackhead Jesus to a more sober looking Jesus"},
-		{"id":"c099b54881307a9f","x":1030,"y":-411,"width":250,"height":60,"type":"text","text":"[[Nugget_Lord]]'s Rehab"}
+		{"id":"c099b54881307a9f","x":1030,"y":-411,"width":250,"height":60,"type":"text","text":"[[Nugget_Lord]]'s Rehab"},
+		{"id":"716c9dc81e8ebb9e","x":830,"y":-599,"width":250,"height":100,"type":"text","text":"[[Nugget_Lord]]'s skin change from Crackhead Jesus to a more sober looking Jesus"},
+		{"id":"c8349902ac4bab4d","x":1191,"y":-572,"width":250,"height":73,"type":"text","text":"[[Nugget_Lord]] No longer takes drugs (has his 90 day pass)"}
 	],
 	"edges":[
 		{"id":"14012a99d9e9e535","fromNode":"352cc0f47ef08bee","fromSide":"right","toNode":"1a60311481901009","toSide":"left"},
@@ -30,6 +31,7 @@
 		{"id":"f06349578e6f52dc","fromNode":"12b3dfbbef2be4e1","fromSide":"top","toNode":"6256898dabef15c6","toSide":"left"},
 		{"id":"72e67caca4a2864f","fromNode":"c099b54881307a9f","fromSide":"top","toNode":"716c9dc81e8ebb9e","toSide":"bottom"},
 		{"id":"46049aed951c7da1","fromNode":"12b3dfbbef2be4e1","fromSide":"right","toNode":"619a17e8d10aa367","toSide":"left"},
-		{"id":"81175de09c880ee2","fromNode":"619a17e8d10aa367","fromSide":"right","toNode":"298e7cc9e270c6ee","toSide":"left"}
+		{"id":"81175de09c880ee2","fromNode":"619a17e8d10aa367","fromSide":"right","toNode":"298e7cc9e270c6ee","toSide":"left"},
+		{"id":"3c4b182f699c493c","fromNode":"c099b54881307a9f","fromSide":"top","toNode":"c8349902ac4bab4d","toSide":"bottom"}
 	]
 }
