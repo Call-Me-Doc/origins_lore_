@@ -25,7 +25,7 @@ Traits
  // Still not entirely sure on why the two religions insist on fighting each other
 
 Relavent Story Points
- Created most of [[Subject 54]] with [[Noble_Oraiste]]
+ //Created most of [[Subject 54]] with [[Noble_Oraiste]]
 
 Relationships
  // Terrified of [[The_Unbeliever_]]
@@ -35,4 +35,4 @@ Relationships
  // [[Noble_Oraiste]]'s child (does not know)
 
 Quotes
- "as long as you don't break anyone else's shit, I don't really care" - Doc, after being asked if someone could build at [[Subject 54]] for the 3rd time that day
+ //"as long as you don't break anyone else's shit, I don't really care" - Doc, after being asked if someone could build at [[Subject 54]] for the 3rd time that day
