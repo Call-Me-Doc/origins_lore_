@@ -7,4 +7,14 @@ Aliases
 
 Origin: Shulk
 
-[[Nugget_Lord]]'s ex spouce
+Traits
+
+Relavent Story Point
+ [[Divorce.canvas]]
+
+Relationships
+ [[Nugget_Lord]]'s ex-spouse
+
+Quotes
+ "Don't worry, the mice are dead"
+

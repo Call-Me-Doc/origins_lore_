@@ -4,4 +4,12 @@ Aliases
  Sav
 Origin: Twisted branch
 
-Technically worshipping [[Noble_Oraiste]]
+
+Traits
+
+Relavent Story Point
+
+Relationships
+ Technically worshipping [[Noble_Oraiste]]
+
+Quotes

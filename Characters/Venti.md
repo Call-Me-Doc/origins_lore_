@@ -14,6 +14,8 @@ Traits
 Relavent Story Points
  {PlaceHolder}
 
-quotes
+Relationship
+
+Quotes
  "It's because I'm gay, isn't it?" - Rori
  "I have the power of god and anime on my side" - Rori, probably

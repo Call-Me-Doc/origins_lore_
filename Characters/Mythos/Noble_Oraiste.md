@@ -14,7 +14,7 @@ Relevant Story Notes
  [[Alacramo]] is attempting to ressurect him.
   Noble despises this, as he would rather stay dead.
 
-[[Tree Shrine]] isn't particularly in the best standing with [[Noble_Oraiste]] but they have general respect for him.
+[[Tree Shrine]]/[[Nordic fuckers]] isn't particularly in the best standing with [[Noble_Oraiste]] but they have general respect for him.
 
 
 Relationships
@@ -27,6 +27,7 @@ Relationships
  
  Started [[Bakery Leblanc]] to spite [[Alacramo]] and [[Nugget_Lord]] into going into business with him.
  Conducted [[The FBI Raid]] on [[VoidCatYT]]
+ Talks to [[CJ_The_Mage]] way too much. Put statues on [[The Floating Isles]] as a gift
  
 
 Quotes

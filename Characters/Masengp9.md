@@ -5,4 +5,12 @@ Aliases
  Mosan (By [[Noble_Oraiste]] and [[CJ_The_Mage]])
 Origin: Ancient Builder
 
-Friends with [[CJ_The_Mage]]
+Traits
+
+Relavent Story Point
+
+Relationships
+ Friends (Brothers?) with [[CJ_The_Mage]]
+
+Quotes
+

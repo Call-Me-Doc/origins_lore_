@@ -6,7 +6,17 @@ Aliases
  Monkey man (By [[CJ_The_Mage]])
 Origin: Goat
 
-goatlin, loves heights and jumping from them
-worshipper of tree god
-owner of the furniture store and skydiving
-proud rep of those who are fighting custody cases
+Traits
+ //goatlin, loves heights and jumping from them
+ //owner of [[Calder's Furniture Store]] and skydiving
+
+Relavent Story Point
+ //proud rep of those who are fighting custody cases
+ [[Divorce.canvas]]
+
+Relationships
+ //worshipper of [[DarthWaffle]]
+
+Quotes
+
+
