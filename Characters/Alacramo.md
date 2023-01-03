@@ -18,7 +18,7 @@ Relavent Story Points
 Relationships
  [[CallMeDoc_]]'s half brother (Mother side)
  [[Alacramo's Mother]] Mother?
- [[Nugget_Lord]] 
+ Co-owns [[Cafe Leblanc]] with [[Nugget_Lord]]
 
 Quotes
  "I'm going to bite your ankles"
