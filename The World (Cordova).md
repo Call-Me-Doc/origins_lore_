@@ -3,6 +3,10 @@ Factions:
  [[Nordic fuckers]]
  ///////////////////////////
 
+
+Events
+ [[The FBI Raid]]
+
 Locations
  [[Project3c]]
  [[Subject 51]]
@@ -13,6 +17,7 @@ Locations
  [[Tree Shrine]]
  [[Cock Blocked Church]]
  [[The Floating Isles]]
+ [[The Underdark]]
  ////////////////////////////
  
  Shops
@@ -22,6 +27,7 @@ Locations
   [[Calder's Furniture Store]]
   [[Doc's Oddities]]
   [[Noble Blacksmithing]]
+  [[Kachino]]
   ////////////////////////////
 
 Players: 
@@ -46,7 +52,7 @@ Players:
 
 Npcs
  [[The Barrel Admirer]]
- [[Alacramo]]
+ [[Alacramo's Mother]]
 
 [[Gods]]:
  [[Noble_Oraiste]]
