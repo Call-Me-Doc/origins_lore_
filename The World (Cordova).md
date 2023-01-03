@@ -1,8 +1,7 @@
 Factions:
  [[Church Of The CockBlock]]
  [[Nordic fuckers]]
- ///////////////////////////
-
+ [[The Town]]
 
 Events
  [[The FBI Raid]]
@@ -18,17 +17,15 @@ Locations
  [[Cock Blocked Church]]
  [[The Floating Isles]]
  [[The Underdark]]
- ////////////////////////////
  
- Shops
-  [[Bakery Leblanc]]
-  [[Black Market]]
-  [[Cafe Leblanc]]
-  [[Calder's Furniture Store]]
-  [[Doc's Oddities]]
-  [[Noble Blacksmithing]]
-  [[Kachino]]
-  ////////////////////////////
+Shops
+ [[Bakery Leblanc]]
+ [[Black Market]]
+ [[Cafe Leblanc]]
+ [[Calder's Furniture Store]]
+ [[Doc's Oddities]]
+ [[Noble Blacksmithing]]
+ [[Kachino]]
 
 Players: 
  use [[Person Template]] to create or modify charaters, bc i didnt spend like 20 mins making this for nothing
@@ -48,7 +45,7 @@ Players:
  [[Masengp9]]
  [[ThePolandRock]]
  [[The_Unbeliever_]]
- //////////////////////////
+
 
 Npcs
  [[The Barrel Admirer]]
@@ -58,4 +55,6 @@ Npcs
  [[Noble_Oraiste]]
  [[The_Unbeliever_]]
  [[The Barrel Admirer]]?
- ////////////////////////
+
+Fu Facts:
+ It is mandatory to go through sword training by time you're 16 in Cordova
