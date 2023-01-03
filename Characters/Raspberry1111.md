@@ -9,6 +9,7 @@ Origin: Truffle
 Traits
 
 Relavent Story Point
+ Has limited access to [[The Console]] via [[Project3c]]
 
 Relationships
  Frequent business partners with [[Noble_Oraiste]]

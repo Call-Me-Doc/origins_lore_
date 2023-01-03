@@ -11,6 +11,7 @@ Traits
  Knows who [[The Barrel Admirer]] is
 
 Relevant Story Notes 
+ Has access to [[The Console]]
  [[Alacramo]] is attempting to ressurect him.
   Noble despises this, as he would rather stay dead.
 

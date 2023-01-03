@@ -61,3 +61,7 @@ Npcs
 Fun Facts:
  // It is mandatory to go through sword training by the time you're 16 in Cordova.
  //To stop a paradox and thing paradoxical becomes lean.
+
+
+Other
+ [[The Console]]
