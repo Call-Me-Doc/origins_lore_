@@ -4,6 +4,10 @@ Aliases
  Unb
  Unby
  Unbi
+ God of War
+ God of Fire
+ God of Blood
+ God of Death
 Origin: War God
 
 Traits
