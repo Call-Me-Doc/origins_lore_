@@ -53,6 +53,10 @@ Npcs
  // [[The Barrel Admirer]]
  // [[Alacramo's Mother]]
 
+[[Ancient Builders]]
+ [[CJ_The_Mage]]
+ [[Masengp9]]
+
 [[Gods]]:
  // [[Noble_Oraiste]]
  // [[The_Unbeliever_]]

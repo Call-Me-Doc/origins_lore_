@@ -5,7 +5,7 @@ Aliases:
  Maken
  Mosan (By [[Noble_Oraiste]] and [[CJ_The_Mage]])
  
-Origin: Ancient Builder
+Origin: [[Ancient Builders]]
 
 Traits:
 

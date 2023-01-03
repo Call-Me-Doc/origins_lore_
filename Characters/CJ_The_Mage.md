@@ -5,7 +5,7 @@ Aliases:
  CJ Magnus
  The Cursed Barrier Mage
  Irish
-Origin: Ancient Builder
+Origin: [[Ancient Builders]]
 
 Traits:
  // Isn't a asshole
