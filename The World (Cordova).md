@@ -41,7 +41,7 @@ Players:
  [[Raspberry1111]]
  [[TheVibeGod]]
  [[Venti]]
- [[Karma]]
+ [[KarmafKat]]
  [[Savinterra]]
  [[CJ_The_Mage]]
  [[VoidCatYT]]
