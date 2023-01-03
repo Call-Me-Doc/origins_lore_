@@ -25,14 +25,14 @@ Locations
   ////////////////////////////
 
 Players: 
-use [[Person Template]] to create or modify charaters, bc i didnt spend like 20 mins making this for nothing
+ use [[Person Template]] to create or modify charaters, bc i didnt spend like 20 mins making this for nothing
  [[Alacramo]]
  [[CallMeDoc_]]
  [[DarthWaffle]]
  [[Noble_Oraiste]]
  [[Nugget_Lord]]
  [[ProfMonkey07]]
- [[Raspberry]]
+ [[Raspberry1111]]
  [[TheVibeGod]]
  [[Venti]]
  [[Karma]]
