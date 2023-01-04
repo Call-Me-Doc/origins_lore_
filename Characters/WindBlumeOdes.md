@@ -1,4 +1,4 @@
-She / They
+She / They / He
 
 Aliases:
  Rori

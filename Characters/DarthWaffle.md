@@ -18,3 +18,4 @@ Relationships:
 
 Quotes:
  "My glasses are thicker than a supermodel"
+ "Let's just say there was an incident with an I.E.D. and some anal beads"
