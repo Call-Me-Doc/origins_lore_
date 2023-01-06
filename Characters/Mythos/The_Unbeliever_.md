@@ -22,7 +22,9 @@ Traits:
  
   // Has come from far away lands hearing that a war was brewing and are delighted with what they've found, a land who doesn't even know who they are.
 
- // Is legally required to commit a "Technoblade Refrence" if a government is formed near him. we do not know what this means
+ // Is legally required to commit a "Technoblade Refrence" if a government is formed near him. we do not know what this means.
+
+ // Has fucked a crab. You get bored after a few thousand years.
 
 Places of Worship: The bloodsoaked ground is his temple, every battle is an act of worship to him. 
 
