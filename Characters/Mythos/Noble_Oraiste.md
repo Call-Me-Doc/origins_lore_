@@ -1,10 +1,12 @@
 He/Him
+
 Aliases
  Noble
  Shadow
  Poseidon
  Bitch Boy
  The Dead god
+ 
 Origin: Phantom
 
 Traits
