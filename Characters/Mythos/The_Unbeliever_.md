@@ -17,6 +17,9 @@ Traits:
  // A very old god of war that revels in bloodshed, basically a genocidal maniac that only likes murder, torture, and food. 
  
  // Kind of an asshole. 
+
+ // Can instantly regenerate _any_ body part with minimal effort
+      \\\ yes, this includes the penis. it actually is suprisingly effective on the penis
  
  // Acquaintances with [[Noble_Oraiste]].
  
