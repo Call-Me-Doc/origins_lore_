@@ -35,3 +35,4 @@ Relationships
  
 Quotes
  "AHHHH! I BURN IN DAYLIGHT" -Probably the first thing Noble said after dying
+ "The dildo is so simple that it was invented hundreds of thousands of years before the wheel. It shouldn't be that hard to hotglue a rock to a belt."
