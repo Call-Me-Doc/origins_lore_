@@ -1,9 +1,8 @@
 {
 	"nodes":[
-		{"id":"3376f556b541a8ca","x":-379,"y":-716,"width":400,"height":60,"type":"text","text":"a record of [[Doc]] and [[TheVibeGod]]'s plans to win the divorce"},
-		{"id":"81f487397e3b5ca4","x":-650,"y":-466,"width":346,"height":222,"color":"5","type":"text","text":"Summary:\nJustin was a shitty husband to [[TheVibeGod]], and [[TheVibeGod]] decided to get a divorce, nobody liked the outcome. \n\nthe outcome being that Justin was taken to forced rehab, and [[TheVibeGod]] had their custody of their kids taken"},
-		{"id":"7c34876beb9ce711","x":-54,"y":-469,"width":400,"height":225,"type":"file","file":"Major Events/Divorce/Divorce/Court Part 2.mkv"},
-		{"id":"20dd3b573efff980","x":-304,"y":-608,"width":250,"height":60,"type":"text","text":"Takes place at [[Subject 55]]"}
+		{"id":"20dd3b573efff980","x":-304,"y":-608,"width":250,"height":60,"type":"text","text":"Takes place at [[Subject 55]]"},
+		{"id":"81f487397e3b5ca4","x":-631,"y":-484,"width":346,"height":222,"color":"5","type":"text","text":"Summary:\nJustin was a shitty husband to [[TheVibeGod]], and [[TheVibeGod]] decided to get a divorce, nobody liked the outcome. \n\nthe outcome being that Justin was taken to forced rehab, and [[TheVibeGod]] had their custody of their kids taken"},
+		{"id":"17de63e519d7f12a","x":-605,"y":-667,"width":250,"height":119,"type":"text","text":"[[CallMeDoc_]] previously had a recording of the whole thing, but they accidentally deleted them like an idiot"}
 	],
 	"edges":[]
 }

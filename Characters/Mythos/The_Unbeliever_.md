@@ -34,6 +34,6 @@ Places of Worship: The bloodsoaked ground is his temple, every battle is an act 
 Religion: Most everyone knows of the war god in one way or another, with the exception of the land they've come to recently, too peaceful (until recently) to know the blood god's name. 
 
 Quotes:
- "You ever see a shulk dick?" -Unb
- "YOUR MOM OR DAD, CLEARLY" -Unb referring to [[TheVibeGod]]'s question, "Who fucked a shulk?"
+ "You ever see a shulk dick?" - Unb
+ "YOUR MOM OR DAD, CLEARLY" - Unb referring to [[TheVibeGod]]'s question, "Who fucked a shulk?"
  "Alchohol to blood ratio, a shulker's blood is 100% lean"

@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"12b3dfbbef2be4e1","x":-490,"y":-197,"width":400,"height":400,"type":"file","file":"Events/Major Events/The Holy War/The Holy War.canvas"},
 		{"id":"519c94e12f0cddeb","x":-1826,"y":-29,"width":250,"height":60,"type":"text","text":"Season 2"},
 		{"id":"0658519e74bc957d","x":-1479,"y":-101,"width":266,"height":206,"type":"text","text":"Season 2 Residents (Excluding [[Noble_Oraiste]], [[The_Unbeliever_]], [[CJ_The_Mage]], [[Masengp9]], and [[DarthWaffle]]) are born"},
 		{"id":"478381271a5a13f2","x":-1140,"y":-53,"width":250,"height":111,"type":"text","text":"Season 2 Residents:\nAll Players listed in [[The World (Cordova)]]"},
@@ -11,12 +10,14 @@
 		{"id":"438764455ae9f727","x":-2824,"y":-29,"width":250,"height":60,"type":"text","text":"Season 1 characters are born"},
 		{"id":"a858c51d63dd7699","x":-2486,"y":-160,"width":261,"height":323,"type":"text","text":"First Residents\n[[Noble_Oraiste]]\n[[CJ_The_Mage]] (Seperate Char)\n[[Raspberry1111]] (Seperate Char)\n[[VoidCatYT]] (Seperate Char)\n[[Masengp9]] (Seperate Char)\n[[ThePolandRock]] ? Not sure. (Seperate Char)"},
 		{"id":"c15c82dc5680023e","x":-2163,"y":-29,"width":250,"height":60,"type":"text","text":"???"},
+		{"id":"12b3dfbbef2be4e1","x":-490,"y":-197,"width":400,"height":400,"type":"file","file":"Events/Major Events/The Holy War/The Holy War.canvas"},
 		{"id":"619a17e8d10aa367","x":58,"y":203,"width":400,"height":400,"type":"file","file":"Events/Major Events/Noble's Resurrection/Noble's Resurrection.canvas"},
 		{"id":"ce51f378866acb34","x":58,"y":652,"width":400,"height":186,"type":"file","file":"Locations/The Underdark.md"},
 		{"id":"298e7cc9e270c6ee","x":630,"y":-197,"width":400,"height":400,"type":"file","file":"Events/Major Events/Divorce/Divorce.canvas"},
 		{"id":"716c9dc81e8ebb9e","x":505,"y":-605,"width":250,"height":100,"type":"text","text":"[[Nugget_Lord]]'s skin change from Crackhead Jesus to a more sober looking Jesus"},
 		{"id":"c099b54881307a9f","x":705,"y":-417,"width":250,"height":60,"type":"text","text":"[[Nugget_Lord]]'s Rehab"},
-		{"id":"c8349902ac4bab4d","x":866,"y":-578,"width":250,"height":73,"type":"text","text":"[[Nugget_Lord]] No longer takes drugs (has his 90 day pass)"}
+		{"id":"c8349902ac4bab4d","x":866,"y":-578,"width":250,"height":73,"type":"text","text":"[[Nugget_Lord]] No longer takes drugs (has his 90 day pass)"},
+		{"id":"9ef9049a5d3d713f","x":-2099,"y":55,"width":90,"height":50,"type":"text","text":"profit"}
 	],
 	"edges":[
 		{"id":"14012a99d9e9e535","fromNode":"352cc0f47ef08bee","fromSide":"right","toNode":"1a60311481901009","toSide":"left"},
@@ -35,6 +36,7 @@
 		{"id":"9e789332fb510d43","fromNode":"6256898dabef15c6","fromSide":"right","toNode":"12b3dfbbef2be4e1","toSide":"left"},
 		{"id":"2b5833c770ba63d9","fromNode":"619a17e8d10aa367","fromSide":"bottom","toNode":"ce51f378866acb34","toSide":"top"},
 		{"id":"e837579c02e26a5f","fromNode":"12b3dfbbef2be4e1","fromSide":"bottom","toNode":"619a17e8d10aa367","toSide":"left"},
-		{"id":"feee2bee1f83601d","fromNode":"12b3dfbbef2be4e1","fromSide":"right","toNode":"298e7cc9e270c6ee","toSide":"left"}
+		{"id":"feee2bee1f83601d","fromNode":"12b3dfbbef2be4e1","fromSide":"right","toNode":"298e7cc9e270c6ee","toSide":"left"},
+		{"id":"0a9ef8a410553f5d","fromNode":"c15c82dc5680023e","fromSide":"bottom","toNode":"9ef9049a5d3d713f","toSide":"top"}
 	]
 }
