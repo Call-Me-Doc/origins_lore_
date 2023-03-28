@@ -12,6 +12,8 @@ Aliases:
 Origin: War God
 
 Traits:
+ // The_Unbeliever_ is known to be an epithet, their true name lost to time to all but perhaps themselves.
+ 
  // Knows who [[The Barrel Admirer]] is
 
  // A very old god of war that revels in bloodshed, basically a genocidal maniac that only likes murder, torture, and food. 
@@ -28,6 +30,10 @@ Traits:
  // Is legally required to commit a "Technoblade Refrence" if a government is formed near him. we do not know what this means.
 
  // Has fucked a crab. You get bored after a few thousand years.
+
+ // Has made an ongoing bet for [[TheVibeGod]]'s head, binding their soul to it.
+
+ // Held [[CallMeDoc_]] at swordpoint to craft an ultimate weapon for them, but accidentally left them with enough materials to craft a second.
 
 Places of Worship: The bloodsoaked ground is his temple, every battle is an act of worship to him. 
 

@@ -68,6 +68,7 @@ Fun Facts:
  // Given this world is equivalent to about 1000 AD Europe in many respects (tech, culture, etc.) most people likely can't read in the modern sense, being able to pronounce the words but not understanding them. This means about 50% of the men and about 1% of the women of this world would actually understand what they read, and even less would be able to write. Given this is also skewed heavily towards nobles the fact there are so many normal people able to read and write in one area would be found very surprising. 
    \\\ however, because this is also minecraft, everyone can read.
  // Orginally, there were no gods in Cordova, however, all of the current gods were imported.
+ // If both parties agree to it when making a bet a magic can be invoked to bind one's soul into an object, such as their own head (heads being the most common example as they are generated upon death) or a token, as part of the bet. Henceforth if the opposing party comes into possesion of said object they will own said soul, and given that the soul is the root of will and conscience this means they would own the person who's soul it is.
 
 
 Other
