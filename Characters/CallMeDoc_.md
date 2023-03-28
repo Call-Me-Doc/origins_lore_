@@ -30,6 +30,7 @@ Relavent Story Points:
 
 Relationships:
  // Terrified of [[The_Unbeliever_]]
+  \\\ Lost all their gear to a bastion, and was then held at swordpoint by Unbi to help them craft "the ultimate blade". managed to keep hold of enough material to craft a second, however.
 
  // [[Alacramo]]'s sibling (mother's side, doesn't realize [[Alacramo]] is their sibling)
 
