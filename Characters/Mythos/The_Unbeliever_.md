@@ -12,7 +12,7 @@ Aliases:
 Origin: War God
 
 Traits:
- // The_Unbeliever_ is known to be an epithet, their true name lost to time to all but perhaps themselves.
+ // The_Unbeliever_ is known to be an epithet, acquired for destroying even the churhces of the cities they raze, their true name lost to time to all but perhaps themselves.
  
  // Knows who [[The Barrel Admirer]] is
 
