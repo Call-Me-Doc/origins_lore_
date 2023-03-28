@@ -13,6 +13,8 @@ Origin: War God
 
 Traits:
  // The_Unbeliever_ is known to be an epithet, acquired for destroying even the churhces of the cities they raze, their true name lost to time to all but perhaps themselves.
+
+ // Is apparently younger than the invention of copper but younger than that of bronze, making them somewhere between about 4,200 and about 3,500, though their exact age is unknown to them even, apparently they "Stopped counting after 3,000!"
  
  // Knows who [[The Barrel Admirer]] is
 
