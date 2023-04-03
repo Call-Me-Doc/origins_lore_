@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"link","url":"https://youtu.be/GIUQRVvRLjM","id":"0be8da0497ee96ea","x":-560,"y":-300,"width":640,"height":360},
+		{"id":"7239d1f93f7b9f90","x":-560,"y":60,"width":640,"height":80,"type":"text","text":"The Sacrifical Chamber created by [[Alacramo]], used to ressurect [[Noble_Oraiste]], more details seen at [[Noble's Resurrection.canvas]]"},
+		{"id":"4200e738c143f56b","x":220,"y":-300,"width":640,"height":360,"type":"link","url":"https://youtu.be/vADwM9oPik8"},
+		{"id":"5e7c21bb8d3aa29f","x":220,"y":60,"width":640,"height":80,"type":"text","text":"The Courthouse and it's office, intended to be used for any legal related buisness. the chairs were put away for this showcase"}
+	],
+	"edges":[]
+}
