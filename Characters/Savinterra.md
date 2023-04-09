@@ -11,6 +11,6 @@ Traits:
 Relavent Story Point:
 
 Relationships:
- Technically worshipping [[Noble_Oraiste]]
+// Technically worshipping [[Noble_Oraiste]]
 
 Quotes:

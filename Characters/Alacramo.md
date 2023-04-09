@@ -23,4 +23,4 @@ Relationships:
  Co-owns [[Cafe Leblanc]] with [[Nugget_Lord]]
 
 Quotes:
- "I'm going to bite your ankles"
+// "I'm going to bite your ankles"

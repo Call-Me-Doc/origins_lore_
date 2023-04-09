@@ -19,4 +19,4 @@ Relationships:
  Friends (Brothers?) with [[Masengp9]]
 
 Quotes:
- "I may be a dick but at least I'm a nice dick"
+// "I *may* be a dick but at least I'm a nice dick"

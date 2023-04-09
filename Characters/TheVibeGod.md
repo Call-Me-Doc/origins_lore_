@@ -18,6 +18,6 @@ Relationships:
  // Has an ongoing bet with [[The_Unbeliever_]] that the deity will never get their head, binding their own soul to it.
 
 Quotes:
- "Don't worry, the mice are dead"
- "Shulkers are canonically made of Lean?"
+// "Don't worry, the mice are dead"
+// "Shulkers are canonically made of Lean?"
 

@@ -1,6 +1,6 @@
 They / Them  
 \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
-Aliases"
+Aliases:
  Doc
  The Nonbinary ho (- [[Noble_Oraiste]] the second he added this section)
 
@@ -39,8 +39,8 @@ Relationships:
  // Friends with [[KarmafKat]]
 
 Quotes:
- //"as long as you don't break anyone else's shit, I don't really care" - Doc, after being asked if someone could build at [[Subject 54]] for the 3rd time that day
+ // "as long as you don't break anyone else's shit, I don't really care" - Doc, after being asked if someone could build at [[Subject 54]] for the 3rd time that day
  
- //"If they're not at least 85% lean, they're not shulkers"
+ // "If they're not at least 85% lean, they're not shulkers"
  
- //"HOW ARE YOU UNCONCIOUS, YOU GOT HIT BY MISSILES"
+ // "HOW ARE YOU UNCONCIOUS, YOU GOT HIT BY MISSILES"
