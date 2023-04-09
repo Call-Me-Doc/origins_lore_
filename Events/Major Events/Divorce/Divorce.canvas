@@ -1,15 +1,17 @@
 {
 	"nodes":[
-		{"type":"text","text":"[[Nugget_Lord]]'s Rehab","id":"d9e4adff62f2c0d4","x":-40,"y":-612,"width":250,"height":60},
-		{"type":"text","text":"[[Nugget_Lord]] No longer takes drugs (has his 90 day pass)","id":"8d79622f2cf74ee9","x":85,"y":-800,"width":250,"height":100},
-		{"type":"text","text":"[[Nugget_Lord]]'s skin change from Crackhead Jesus to a more sober looking Jesus","id":"43fe651fdf09bf07","x":-260,"y":-750,"width":250,"height":100},
-		{"type":"text","text":"[[Nugget_Lord]] speaks to [[CallMeDoc_]], a registered psychiatrist, and gets a doctor's note to reobtain his kids. it requires going to court and speaking to a judge to reobtain them offically","id":"177f78a4c9d16004","x":140,"y":-1040,"width":320,"height":160},
-		{"type":"text","text":"Summary:\nJustin was a shitty husband to [[TheVibeGod]], and [[TheVibeGod]] decided to get a divorce, nobody liked the outcome. \n\nthe outcome being that Justin was taken to forced rehab, and [[TheVibeGod]] had their custody of their kids taken","id":"81f487397e3b5ca4","x":-606,"y":-582,"width":346,"height":244,"color":"5"}
+		{"type":"text","text":"Summary:\nJustin was a shitty husband to [[TheVibeGod]], and [[TheVibeGod]] decided to get a divorce, nobody liked the outcome. \n\n[[CallMeDoc_]] was [[TheVibeGod]]'s lawyer, and [[ProfMonkey07]] was [[Nugget_Lord]]'s\n\nthe outcome being that Justin was taken to forced rehab, and [[TheVibeGod]] had their custody of their kids taken","id":"81f487397e3b5ca4","x":-545,"y":-582,"width":380,"height":312,"color":"5"},
+		{"type":"text","text":"[[Nugget_Lord]]'s Rehab","id":"d9e4adff62f2c0d4","x":5,"y":-486,"width":250,"height":60},
+		{"type":"text","text":"[[Nugget_Lord]] No longer takes drugs (has his 90 day pass)","id":"8d79622f2cf74ee9","x":220,"y":-674,"width":250,"height":100},
+		{"id":"8b85b1af52ee2d03","x":645,"y":-696,"width":300,"height":240,"type":"text","text":"[[CallMeDoc_]], feeling bad for losing the court preceedings for [[TheVibeGod]], lets them know about his offical rehab, and ability to get their kids under his custody. They also let her know that the rafters inside the courthouse could be stood in."},
+		{"type":"text","text":"[[Nugget_Lord]] speaks to [[CallMeDoc_]], who on top of being a registered lawyer, is also a registered psychiatrist, and gets a doctor's note to regain custody of his kids. it requires going to court and speaking to a judge to reobtain them offically","id":"177f78a4c9d16004","x":160,"y":-914,"width":370,"height":180},
+		{"type":"text","text":"[[Nugget_Lord]]'s skin change from Crackhead Jesus to a more sober looking Jesus","id":"43fe651fdf09bf07","x":-120,"y":-676,"width":250,"height":100}
 	],
 	"edges":[
-		{"id":"566aad33279564d0","fromNode":"d9e4adff62f2c0d4","fromSide":"top","toNode":"43fe651fdf09bf07","toSide":"right"},
-		{"id":"e3cc118839eccdfc","fromNode":"d9e4adff62f2c0d4","fromSide":"top","toNode":"8d79622f2cf74ee9","toSide":"bottom"},
+		{"id":"566aad33279564d0","fromNode":"d9e4adff62f2c0d4","fromSide":"top","toNode":"43fe651fdf09bf07","toSide":"bottom"},
+		{"id":"e3cc118839eccdfc","fromNode":"d9e4adff62f2c0d4","fromSide":"right","toNode":"8d79622f2cf74ee9","toSide":"bottom"},
 		{"id":"e174198f15a45104","fromNode":"81f487397e3b5ca4","fromSide":"right","toNode":"d9e4adff62f2c0d4","toSide":"left"},
-		{"id":"95ae18874e26cff6","fromNode":"8d79622f2cf74ee9","fromSide":"top","toNode":"177f78a4c9d16004","toSide":"bottom"}
+		{"id":"95ae18874e26cff6","fromNode":"8d79622f2cf74ee9","fromSide":"top","toNode":"177f78a4c9d16004","toSide":"bottom"},
+		{"id":"0bfbb061296807fe","fromNode":"177f78a4c9d16004","fromSide":"right","toNode":"8b85b1af52ee2d03","toSide":"left"}
 	]
 }
