@@ -1,17 +1,19 @@
 {
 	"nodes":[
-		{"id":"33759a0263cc7a80","x":-1324,"y":-520,"width":323,"height":81,"type":"text","text":"[[Savinterra]] burned [[Nordic fuckers]]' sacred oak sapling. "},
-		{"id":"b7d47af9ccb487ad","x":-1287,"y":-404,"width":250,"height":83,"type":"text","text":"Thus, the [[Nordic fuckers]] have declared a war on [[Savinterra]]"},
-		{"id":"c8d050dd8de6d81f","x":-1287,"y":-262,"width":250,"height":91,"type":"text","text":"[[Alacramo]] Decided to help out [[Savinterra]] for his part of the war"},
-		{"id":"1c3c46fae2875628","x":-966,"y":-425,"width":250,"height":125,"type":"text","text":"[[The_Unbeliever_]] sensed the possibility of bloodshed and decided to travel worlds to Cordova"},
-		{"id":"93970db6bac289eb","x":-966,"y":-262,"width":250,"height":117,"type":"text","text":"[[Noble_Oraiste]] is currently crying in a corner hoping to god [[Alacramo]] doesn't win the war"},
-		{"id":"d0e8723db93e6c38","x":-1636,"y":-491,"width":262,"height":258,"type":"text","text":"There to kill [[Alacramo]]:\n[[DarthWaffle]]\n[[ProfMonkey07]]\n\nThere to protect [[Alacramo]]:\n[[Alacramo]]\n[[Savinterra]]\n\nJust there to kill people:\n[[The_Unbeliever_]]"}
+		{"type":"text","text":"[[Savinterra]] burned [[Nordic fuckers]]' sacred oak sapling. ","id":"33759a0263cc7a80","x":-1324,"y":-520,"width":323,"height":81},
+		{"type":"text","text":"[[Alacramo]] Decided to help out [[Savinterra]] for his part of the war","id":"c8d050dd8de6d81f","x":-1287,"y":-262,"width":250,"height":91},
+		{"type":"text","text":"[[The_Unbeliever_]] sensed the possibility of bloodshed and decided to travel worlds to Cordova","id":"1c3c46fae2875628","x":-966,"y":-425,"width":250,"height":125},
+		{"type":"text","text":"[[Noble_Oraiste]] is currently crying in a corner hoping to god [[Alacramo]] doesn't win the war","id":"93970db6bac289eb","x":-966,"y":-262,"width":250,"height":117},
+		{"type":"text","text":"Thus, the [[Nordic fuckers]] have declared a war on [[Savinterra]]","id":"b7d47af9ccb487ad","x":-1287,"y":-414,"width":250,"height":104},
+		{"id":"2a3799119e8604d9","x":-1537,"y":-145,"width":250,"height":125,"type":"text","text":"[[Nordic fuckers]] Cover [[Alacramo]]'s church in cati in an attempt to slow him down"},
+		{"type":"text","text":"There to kill [[Alacramo]]:\n[[DarthWaffle]]\n[[ProfMonkey07]]\n\nThere to protect [[Alacramo]]:\n[[Alacramo]]\n[[Savinterra]]\n\nJust there to kill people:\n[[The_Unbeliever_]]","id":"d0e8723db93e6c38","x":-1636,"y":-499,"width":262,"height":275}
 	],
 	"edges":[
 		{"id":"3d93a1a08d49c59f","fromNode":"33759a0263cc7a80","fromSide":"bottom","toNode":"b7d47af9ccb487ad","toSide":"top"},
 		{"id":"b93fb681e0d13759","fromNode":"b7d47af9ccb487ad","fromSide":"bottom","toNode":"c8d050dd8de6d81f","toSide":"top"},
 		{"id":"d26c606a0fe8efb4","fromNode":"b7d47af9ccb487ad","fromSide":"right","toNode":"1c3c46fae2875628","toSide":"left"},
 		{"id":"8e0328fe776ddca2","fromNode":"b7d47af9ccb487ad","fromSide":"right","toNode":"93970db6bac289eb","toSide":"left"},
-		{"id":"c504c4ae76ac4f9a","fromNode":"b7d47af9ccb487ad","fromSide":"left","toNode":"d0e8723db93e6c38","toSide":"right"}
+		{"id":"c504c4ae76ac4f9a","fromNode":"b7d47af9ccb487ad","fromSide":"left","toNode":"d0e8723db93e6c38","toSide":"right"},
+		{"id":"3ff2a482aca78fde","fromNode":"c8d050dd8de6d81f","fromSide":"left","toNode":"2a3799119e8604d9","toSide":"top"}
 	]
 }
