@@ -64,7 +64,7 @@ Npcs
 
 Fun Facts:
  // It is mandatory to go through sword training by the time you're 16 in Cordova.
- // To stop a paradoxes, the paradoxical object becomes lean.
+ // To stop a paradox, the paradoxical object becomes lean.
  // Given this world is equivalent to about 1000 AD Europe in many respects (tech, culture, etc.) most people likely can't read in the modern sense, being able to pronounce the words but not understanding them. This means about 50% of the men and about 1% of the women of this world would actually understand what they read, and even less would be able to write. Given this is also skewed heavily towards nobles the fact there are so many normal people able to read and write in one area would be found very surprising. 
    \\\ however, because this is also minecraft, everyone can read.
  // Orginally, there were no gods in Cordova, however, all of the current gods were imported.

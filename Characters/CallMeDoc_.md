@@ -26,7 +26,7 @@ Traits:
  // Still not entirely sure on why the two religions insist on fighting each other
 
 Relavent Story Points:
- //Created most of [[Subject 54]] with [[Noble_Oraiste]]
+ // Created most of [[Subject 54]] practially alone, after being shown the location by [[Noble_Oraiste]]
 
 Relationships:
  // Terrified of [[The_Unbeliever_]]
