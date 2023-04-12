@@ -1,4 +1,4 @@
-Subject 54 is a trading center for most, and a home for few. this includes [[CallMeDoc_]], the builder of the location, as well as [[Noble_Oraiste]], [[KarmafKat]], and [[WindBlumeOdes]].
+Subject 54 is a trading center for most, and a home for few. this includes [[CallMeDoc_]], the builder of the location, as well as [[Noble_Oraiste]], [[KarmafKat]], and others to be listed below as time passes.
 
 
 Residents:
@@ -6,6 +6,7 @@ Residents:
  [[Noble_Oraiste]]
  [[KarmafKat]]
  [[WindBlumeOdes]]
+ [[Suspicious Rat]]
  ////////////////////////
 
 Shops:

@@ -5,4 +5,5 @@ members:
 	[[KarmafKat]]
 	[[Noble_Oraiste]]
 	[[WindBlumeOdes]]
+	[[Suspicious Rat]]
 	
