@@ -1,3 +1,3 @@
-a mysterious individual who helps in supplying [[Suspicious Rat]] with their weaponry. in exchange for weapons, [[Suspicious Rat]] gives them the enjoyment of chaos and "gossip to tell to their friends".
+a mysterious individual who helps in supplying [[Suspicious_Rat_]] with their weaponry. in exchange for weapons, [[Suspicious_Rat_]] gives them the enjoyment of chaos and "gossip to tell to their friends".
 
-[[CallMeDoc_]], who lives with [[Suspicious Rat]], knows of Rat's Benifactor, and has tried figuring out where the supplies come from, and every time has been thwarted somehow.
+[[CallMeDoc_]], who lives with [[Suspicious_Rat_]], knows of Rat's Benifactor, and has tried figuring out where the supplies come from, and every time has been thwarted somehow. (or so they claim, anyhow)

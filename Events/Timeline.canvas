@@ -4,15 +4,16 @@
 		{"type":"text","text":"Season 2 Residents (Excluding [[Noble_Oraiste]], [[The_Unbeliever_]], [[CJ_The_Mage]], [[Masengp9]], and [[DarthWaffle]]) are born","id":"0658519e74bc957d","x":-1479,"y":-101,"width":266,"height":206},
 		{"type":"text","text":"Season 2 Residents:\nAll Players listed in [[The World (Cordova)]]","id":"478381271a5a13f2","x":-1140,"y":-53,"width":250,"height":111},
 		{"type":"text","text":"[[Subject 54]]'s Creation\n\nContributors:\n[[CallMeDoc_]]\n[[Noble_Oraiste]]","id":"6256898dabef15c6","x":-830,"y":-67,"width":250,"height":140},
-		{"type":"file","file":"Events/Major Events/The Holy War/The Holy War.canvas","id":"12b3dfbbef2be4e1","x":-490,"y":-197,"width":400,"height":400},
-		{"type":"file","file":"Events/Major Events/Divorce/Divorce.canvas","id":"298e7cc9e270c6ee","x":630,"y":-197,"width":400,"height":400},
+		{"type":"file","file":"Events/Major Events/The Holy War/The Holy War.canvas","id":"12b3dfbbef2be4e1","x":-490,"y":-197,"width":400,"height":400,"color":"2"},
+		{"type":"file","file":"Events/Major Events/Divorce/Divorce.canvas","id":"298e7cc9e270c6ee","x":630,"y":-197,"width":400,"height":400,"color":"4"},
 		{"type":"text","text":"Creation of the Cordova","id":"16e8258869c5ce6e","x":-3440,"y":-29,"width":250,"height":60},
 		{"type":"text","text":"Season 2 [[Masengp9]], [[CJ_The_Mage]], [[Noble_Oraiste]], [[The_Unbeliever_]], and [[DarthWaffle]] come into existence","id":"352cc0f47ef08bee","x":-3127,"y":-88,"width":250,"height":178},
 		{"type":"text","text":"Season 1","id":"1a60311481901009","x":-2824,"y":-29,"width":250,"height":60},
 		{"type":"text","text":"Season 1 characters are born","id":"438764455ae9f727","x":-2522,"y":-29,"width":250,"height":60},
 		{"type":"text","text":"First Residents\n[[Noble_Oraiste]]\n[[CJ_The_Mage]] (Seperate Char)\n[[Raspberry1111]] (Seperate Char)\n[[VoidCatYT]] (Seperate Char)\n[[Masengp9]] (Seperate Char)\n[[ThePolandRock]] ? Not sure. (Seperate Char)","id":"a858c51d63dd7699","x":-2184,"y":-160,"width":261,"height":323},
-		{"type":"file","file":"Events/Major Events/Noble's Resurrection/Noble's Resurrection.canvas","id":"619a17e8d10aa367","x":80,"y":160,"width":400,"height":400},
-		{"type":"file","file":"Locations/The Underdark.md","id":"ce51f378866acb34","x":80,"y":609,"width":400,"height":186}
+		{"type":"file","file":"Events/Major Events/Noble's Resurrection/Noble's Resurrection.canvas","id":"619a17e8d10aa367","x":80,"y":160,"width":400,"height":400,"color":"3"},
+		{"type":"file","file":"Locations/The Underdark.md","id":"ce51f378866acb34","x":80,"y":609,"width":400,"height":186},
+		{"id":"e92dd26c8b720fa8","x":40,"y":-520,"width":370,"height":280,"type":"text","text":"Purple: actively on hold bc of people issues, like an injury or not having access to a computer\nOrange: in progress of being prepared, not actually ready for the next bit of lore tho\nYellow: ready to go, but people havent gotten a time ready\nGreen: active, or a time has been planned out for the next lore bit"}
 	],
 	"edges":[
 		{"id":"14012a99d9e9e535","fromNode":"352cc0f47ef08bee","fromSide":"right","toNode":"1a60311481901009","toSide":"left"},

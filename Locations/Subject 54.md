@@ -6,7 +6,7 @@ Residents:
  [[Noble_Oraiste]]
  [[KarmafKat]]
  [[WindBlumeOdes]]
- [[Suspicious Rat]]
+ [[Suspicious_Rat_]]
  ////////////////////////
 
 Shops:
