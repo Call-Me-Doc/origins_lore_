@@ -9,9 +9,9 @@ Lives on top of [[Subject 54]]'s ravine, in a mushroom hut
 
 Traits:
 
-// Baddest and ausomest and coolest perseon here (her words not mine)
+// Baddest and awesomest and coolest perseon here (real)
 
-// Is batshit insane, and worships the skulk
+// Is batshit insane, and worships the skulk 
 
 Relavent Story Points:
 
