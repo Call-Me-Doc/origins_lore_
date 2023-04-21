@@ -1,5 +1,3 @@
-this is a template for people to use for writing out charaters
-
 Pronouns: (ex: He / Him)
 
 Aliases:
@@ -8,7 +6,7 @@ Aliases:
  hit enter twice to stop the collapsible list
 Origin: put the fucker's orgin here, i.e. Phantom
 
-Tutorial
+Tutorial:
  // Name a category and proceed to place a space on the next line to make the rest of the category collapsible.
   kinda like this. if you don't quite have anything to put in the category yet, just put placeholder  text otherwise it won't collapse
  //
@@ -24,5 +22,5 @@ Relationships:
  
  // or if someone is canonically married, or arch enemies with someone
 
-Quotes:
+Quotes
  "this is for quotes that may help charaterise the charater, or other shit, idk man" - CallMeDoc, while writing this template

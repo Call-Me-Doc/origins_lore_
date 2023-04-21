@@ -1,5 +1,3 @@
-this is a template for people to use for writing out charaters
-
 Pronouns: (ex: He / Him)
 
 Aliases:

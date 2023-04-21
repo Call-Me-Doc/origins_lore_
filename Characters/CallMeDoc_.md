@@ -38,6 +38,13 @@ Relationships:
 
  // Friends with [[KarmafKat]]
 
+List Of Jobs:
+ // Landlord (see [[Subject 54]])
+ // Lawyer (see [[Divorce.canvas]])
+ // Psychatrist (see [[Divorce.canvas]])
+ // Waiter at [[Cafe Leblanc]] (see [[Divorce.canvas]])
+ // Professional Camera Worker (see [[Location Flythroughs.canvas]])
+ 
 Quotes:
  // "as long as you don't break anyone else's shit, I don't really care" - Doc, after being asked if someone could build at [[Subject 54]] for the 3rd time that day
  
