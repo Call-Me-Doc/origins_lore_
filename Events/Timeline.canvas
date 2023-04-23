@@ -4,16 +4,18 @@
 		{"type":"text","text":"Season 2 Residents (Excluding [[Noble_Oraiste]], [[The_Unbeliever_]], [[CJ_The_Mage]], [[Masengp9]], and [[DarthWaffle]]) are born","id":"0658519e74bc957d","x":-1479,"y":-101,"width":266,"height":206},
 		{"type":"text","text":"Season 2 Residents:\nAll Players listed in [[The World (Cordova)]]","id":"478381271a5a13f2","x":-1140,"y":-53,"width":250,"height":111},
 		{"type":"text","text":"[[Subject 54]]'s Creation\n\nContributors:\n[[CallMeDoc_]]\n[[Noble_Oraiste]]","id":"6256898dabef15c6","x":-830,"y":-67,"width":250,"height":140},
-		{"type":"file","file":"Events/Major Events/The Holy War/The Holy War.canvas","id":"12b3dfbbef2be4e1","x":-490,"y":-197,"width":400,"height":400,"color":"2"},
-		{"type":"file","file":"Events/Major Events/Divorce/Divorce.canvas","id":"298e7cc9e270c6ee","x":630,"y":-197,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"Events/Major Events/The Holy War.canvas","id":"12b3dfbbef2be4e1","x":-490,"y":-197,"width":400,"height":400,"color":"2"},
 		{"type":"text","text":"Creation of the Cordova","id":"16e8258869c5ce6e","x":-3440,"y":-29,"width":250,"height":60},
 		{"type":"text","text":"Season 2 [[Masengp9]], [[CJ_The_Mage]], [[Noble_Oraiste]], [[The_Unbeliever_]], and [[DarthWaffle]] come into existence","id":"352cc0f47ef08bee","x":-3127,"y":-88,"width":250,"height":178},
 		{"type":"text","text":"Season 1","id":"1a60311481901009","x":-2824,"y":-29,"width":250,"height":60},
 		{"type":"text","text":"Season 1 characters are born","id":"438764455ae9f727","x":-2522,"y":-29,"width":250,"height":60},
 		{"type":"text","text":"First Residents\n[[Noble_Oraiste]]\n[[CJ_The_Mage]] (Seperate Char)\n[[Raspberry1111]] (Seperate Char)\n[[VoidCatYT]] (Seperate Char)\n[[Masengp9]] (Seperate Char)\n[[ThePolandRock]] ? Not sure. (Seperate Char)","id":"a858c51d63dd7699","x":-2184,"y":-160,"width":261,"height":323},
-		{"type":"file","file":"Events/Major Events/Noble's Resurrection/Noble's Resurrection.canvas","id":"619a17e8d10aa367","x":80,"y":160,"width":400,"height":400,"color":"3"},
-		{"type":"file","file":"Locations/The Underdark.md","id":"ce51f378866acb34","x":80,"y":609,"width":400,"height":186},
-		{"id":"e92dd26c8b720fa8","x":40,"y":-520,"width":370,"height":280,"type":"text","text":"Purple: actively on hold bc of people issues, like an injury or not having access to a computer\nOrange: in progress of being prepared, not actually ready for the next bit of lore tho\nYellow: ready to go, but people havent gotten a time ready\nGreen: active, or a time has been planned out for the next lore bit"}
+		{"type":"file","file":"Events/Major Events/Divorce.canvas","id":"298e7cc9e270c6ee","x":0,"y":-597,"width":400,"height":400,"color":"4"},
+		{"type":"text","text":"Purple: actively on hold bc of people issues, like an injury or not having access to a computer\nOrange: in progress of being prepared, not actually ready for the next bit of lore tho\nYellow: ready to go, but people havent gotten a time ready\nGreen: active, or a time has been planned out for the next lore bit","id":"e92dd26c8b720fa8","x":590,"y":-737,"width":370,"height":280},
+		{"type":"file","file":"Events/Major Events/The Murder of The_Unbeliver.canvas","id":"d65ceb45888ff8c6","x":535,"y":-197,"width":480,"height":400},
+		{"type":"file","file":"Locations/The Underdark.md","id":"ce51f378866acb34","x":335,"y":747,"width":400,"height":186},
+		{"type":"file","file":"Events/Major Events/Noble's Resurrection.canvas","id":"619a17e8d10aa367","x":335,"y":267,"width":400,"height":400,"color":"3"},
+		{"type":"file","file":"Events/The Peggening..canvas","id":"9139c9030c807798","x":-490,"y":267,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"14012a99d9e9e535","fromNode":"352cc0f47ef08bee","fromSide":"right","toNode":"1a60311481901009","toSide":"left"},
@@ -23,11 +25,13 @@
 		{"id":"df8649ad46db5e96","fromNode":"1a60311481901009","fromSide":"right","toNode":"438764455ae9f727","toSide":"left"},
 		{"id":"731abb04be07c5bb","fromNode":"16e8258869c5ce6e","fromSide":"right","toNode":"352cc0f47ef08bee","toSide":"left"},
 		{"id":"87bdcb29b78b73d2","fromNode":"519c94e12f0cddeb","fromSide":"right","toNode":"0658519e74bc957d","toSide":"left"},
-		{"id":"81175de09c880ee2","fromNode":"619a17e8d10aa367","fromSide":"right","toNode":"298e7cc9e270c6ee","toSide":"bottom"},
 		{"id":"9e789332fb510d43","fromNode":"6256898dabef15c6","fromSide":"right","toNode":"12b3dfbbef2be4e1","toSide":"left"},
 		{"id":"2b5833c770ba63d9","fromNode":"619a17e8d10aa367","fromSide":"bottom","toNode":"ce51f378866acb34","toSide":"top"},
 		{"id":"e837579c02e26a5f","fromNode":"12b3dfbbef2be4e1","fromSide":"bottom","toNode":"619a17e8d10aa367","toSide":"left"},
-		{"id":"feee2bee1f83601d","fromNode":"12b3dfbbef2be4e1","fromSide":"right","toNode":"298e7cc9e270c6ee","toSide":"left"},
-		{"id":"c66079e2e911343f","fromNode":"a858c51d63dd7699","fromSide":"right","toNode":"519c94e12f0cddeb","toSide":"left"}
+		{"id":"feee2bee1f83601d","fromNode":"12b3dfbbef2be4e1","fromSide":"right","toNode":"d65ceb45888ff8c6","toSide":"left"},
+		{"id":"c66079e2e911343f","fromNode":"a858c51d63dd7699","fromSide":"right","toNode":"519c94e12f0cddeb","toSide":"left"},
+		{"id":"5e2f7e7f262407c6","fromNode":"298e7cc9e270c6ee","fromSide":"bottom","toNode":"d65ceb45888ff8c6","toSide":"left"},
+		{"id":"5ac7f5bdb8592dc3","fromNode":"6256898dabef15c6","fromSide":"right","toNode":"298e7cc9e270c6ee","toSide":"left"},
+		{"id":"d2e0449d666b7b2f","fromNode":"6256898dabef15c6","fromSide":"bottom","toNode":"9139c9030c807798","toSide":"left"}
 	]
 }

@@ -9,6 +9,7 @@ Aliases:
 Origin: Shulk
 
 Traits:
+ // will go feral over dried fruit
 
 Relavent Story Points:
  // [[Divorce.canvas]]
