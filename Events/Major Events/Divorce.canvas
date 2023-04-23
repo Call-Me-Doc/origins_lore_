@@ -11,9 +11,9 @@
 		{"type":"link","url":"https://youtu.be/V-FnOTba1ng","id":"0c78e558d66adadd","x":1660,"y":-260,"width":640,"height":360},
 		{"type":"text","text":"a smaller but kinda cute recording after [[TheVibeGod]] holds [[CallMeDoc_]] at swordpoint to continue recording, until they slip away and stop","id":"f1f5ec7e0c935943","x":1660,"y":100,"width":640,"height":70},
 		{"type":"text","text":"After accidentally announcing that the dragon egg was in their possesion to the other 2 people active, [[TheVibeGod]] and [[Nugget_Lord]], [[CallMeDoc_]] goes back to [[Subject 54]] where they still were and informs them they saw nothing. this does not magically make them forget what they saw and proceed to chase [[CallMeDoc_]] into the forest for the egg, where Doc eventually loses them, but sticks close in case of any tomfoolery.","id":"529f640c4b8c5b1f","x":2300,"y":-632,"width":520,"height":212},
-		{"type":"link","url":"https://youtu.be/wfVgvodBWQg","id":"6b055983aa70f923","x":3020,"y":-560,"width":640,"height":360},
-		{"type":"text","text":"Tomfoolery seems to have happened anyway","id":"bdd9491d7e839c40","x":3020,"y":-200,"width":640,"height":50},
-		{"type":"text","text":"Summary:\nJustin was a shitty husband to [[TheVibeGod]], and [[TheVibeGod]] decided to get a divorce, nobody liked the outcome. \n\n[[CallMeDoc_]] was [[TheVibeGod]]'s lawyer, and [[ProfMonkey07]] was [[Nugget_Lord]]'s\n\nthe outcome being that Justin was taken to forced rehab, and [[TheVibeGod]] had their custody of their kids taken","id":"81f487397e3b5ca4","x":-680,"y":-608,"width":380,"height":312}
+		{"type":"text","text":"Summary:\nJustin was a shitty husband to [[TheVibeGod]], and [[TheVibeGod]] decided to get a divorce, nobody liked the outcome. \n\n[[CallMeDoc_]] was [[TheVibeGod]]'s lawyer, and [[ProfMonkey07]] was [[Nugget_Lord]]'s\n\nthe outcome being that Justin was taken to forced rehab, and [[TheVibeGod]] had their custody of their kids taken","id":"81f487397e3b5ca4","x":-680,"y":-608,"width":380,"height":312},
+		{"type":"link","url":"https://youtu.be/wfVgvodBWQg","id":"6b055983aa70f923","x":2820,"y":-420,"width":640,"height":360},
+		{"type":"text","text":"Tomfoolery seems to have happened anyway","id":"bdd9491d7e839c40","x":2820,"y":-60,"width":640,"height":50}
 	],
 	"edges":[
 		{"id":"e3cc118839eccdfc","fromNode":"d9e4adff62f2c0d4","fromSide":"right","toNode":"8d79622f2cf74ee9","toSide":"left"},
