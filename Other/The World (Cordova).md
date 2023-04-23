@@ -63,6 +63,7 @@ Npcs:
  // [[Noble_Oraiste]]
  // [[The_Unbeliever_]]
  // [[The Barrel Admirer]]?
+ // [[Nugget_Lord]]
 
 Fun Facts:
  // It is mandatory to go through sword training by the time you're 16 in Cordova.
