@@ -9,7 +9,7 @@ Aliases:
 Origin: Shulk
 
 Traits:
-//After being pushed into the Void they became considered a paradoxical object, causing their body's composition to becom 84.7% Lean; however, this also halted their aging turning them into a psuedogod.
+//After being pushed into the Void 300 years ago they became considered a paradoxical object, causing their body's composition to becom 84.7% Lean; however, this also halted their aging turning them into a psuedogod.
 
 Relavent Story Points:
  // [[Divorce.canvas]]
