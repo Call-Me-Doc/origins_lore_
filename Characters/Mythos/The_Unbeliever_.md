@@ -48,3 +48,4 @@ Quotes:
  "You ever see a shulk dick?" - Unb
  "YOUR MOM OR DAD, CLEARLY" - Unb referring to [[TheVibeGod]]'s question, "Who fucked a shulk?"
  "Alchohol to blood ratio, a shulker's blood is 100% lean"
+ "I'm going to make all the water in your house permanently lukewarm." -In anger towards [[Noble_Oraiste]]
