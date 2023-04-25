@@ -77,6 +77,8 @@ Fun Facts:
  
  // If both parties agree to it when making a bet a magic can be invoked to bind one's soul into an object, such as their own head (heads being the most common example as they are generated upon death) or a token, as part of the bet. Henceforth if the opposing party comes into possesion of said object they will own said soul, and given that the soul is the root of will and conscience this means they would own the person who's soul it is.
 
+ // Cordova is a land of myth where fantasies come true, one of which being the dead rising from their grave on their own. The actual cause of this is a sheep, who drank from the Fountain of Life and attained immortality, who was cursed by a necromancer that was annoyed by it chewing his robe and then dumped in Cordova. The curse caused dead bodies around the sheep to reanimate, but unintentionality made the undead treat the sheep as their summoner and so not attack the sheep, even following it's will. As it's will is to eat because it is an animal the undead will attack people in search of food.
+
 
 Other:
 // [[The Console]]
