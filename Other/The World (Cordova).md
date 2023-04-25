@@ -20,6 +20,8 @@ Locations:
  // [[Cock Blocked Church]]
  // [[The Floating Isles]]
  // [[The Underdark]]
+ // [[The Horni Club]]
+ // [[Mushroom Abode]]
 
 Shops:
  // [[Bakery Leblanc]]
@@ -49,6 +51,8 @@ Players:
  // [[ThePolandRock]]
  // [[The_Unbeliever_]]
  // [[Suspicious_Rat_]]
+ // [[ChickenBoy88]]
+ // [[Drifterr]]
 
 Npcs:
  // [[The Barrel Admirer]]
