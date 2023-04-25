@@ -1,17 +1,17 @@
 {
 	"nodes":[
-		{"type":"text","text":"[[Savinterra]] burned [[Nordic fuckers]]' sacred oak sapling. ","id":"33759a0263cc7a80","x":-1324,"y":-520,"width":323,"height":81},
-		{"type":"text","text":"[[Alacramo]] Decided to help out [[Savinterra]] for his part of the war","id":"c8d050dd8de6d81f","x":-1287,"y":-262,"width":250,"height":91},
-		{"type":"text","text":"[[The_Unbeliever_]] sensed the possibility of bloodshed and decided to travel worlds to Cordova","id":"1c3c46fae2875628","x":-966,"y":-425,"width":250,"height":125},
-		{"type":"text","text":"[[Noble_Oraiste]] is currently crying in a corner hoping to god [[Alacramo]] doesn't win the war","id":"93970db6bac289eb","x":-966,"y":-262,"width":250,"height":117},
-		{"type":"text","text":"Thus, the [[Nordic fuckers]] have declared a war on [[Savinterra]]","id":"b7d47af9ccb487ad","x":-1287,"y":-414,"width":250,"height":104},
-		{"type":"text","text":"There to kill [[Alacramo]]:\n[[DarthWaffle]]\n[[ProfMonkey07]]\n\nThere to protect [[Alacramo]]:\n[[Alacramo]]\n[[Savinterra]]\n[[The_Unbeliever_]]","id":"d0e8723db93e6c38","x":-1636,"y":-499,"width":262,"height":275},
-		{"type":"text","text":"Due to the end of [[The Murder of The_Unbeliver.canvas]], [[The_Unbeliever_]] is now on [[Alacramo]]'s side","id":"dc480860c41b2e19","x":-1220,"y":-40,"width":280,"height":122},
-		{"type":"text","text":"[[Nordic fuckers]] Cover [[Alacramo]]'s church in cati in an attempt to slow him down","id":"2a3799119e8604d9","x":-1505,"y":-104,"width":250,"height":125},
-		{"type":"text","text":"[[DarthWaffle]] constructs a tree themed beacon at [[Subject 54]], as an addition to the town","id":"8decfe6a47786f60","x":-1760,"y":-80,"width":235,"height":120},
-		{"type":"text","text":"[[Alacramo]], to fuck with [[DarthWaffle]], converts it to a deepslate theme","id":"190b8458ecfba95e","x":-2010,"y":52,"width":250,"height":108},
-		{"type":"text","text":"[[The Barrel Admirer]], in an interesting twist, changes it to a barrel tree theme, in the middle of april","id":"1dae2a9f9350d40a","x":-1960,"y":280,"width":280,"height":120},
-		{"type":"text","text":"[[CallMeDoc_]], noticing this fuckery, converts it to its \"\"final\"\" state, with a spruce theme, like the platforms of [[Subject 54]]","id":"304b26daf5394f9c","x":-2280,"y":180,"width":250,"height":160}
+		{"type":"text","text":"[[Savinterra]] burned [[Nordic fuckers]]' sacred oak sapling. ","id":"33759a0263cc7a80","x":-1324,"y":-520,"width":323,"height":81,"color":"1"},
+		{"type":"text","text":"[[Alacramo]] Decided to help out [[Savinterra]] for his part of the war","id":"c8d050dd8de6d81f","x":-1287,"y":-262,"width":250,"height":91,"color":"1"},
+		{"type":"text","text":"[[The_Unbeliever_]] sensed the possibility of bloodshed and decided to travel worlds to Cordova","id":"1c3c46fae2875628","x":-966,"y":-425,"width":250,"height":125,"color":"1"},
+		{"type":"text","text":"[[Noble_Oraiste]] is currently crying in a corner hoping to god [[Alacramo]] doesn't win the war","id":"93970db6bac289eb","x":-966,"y":-262,"width":250,"height":117,"color":"1"},
+		{"type":"text","text":"Thus, the [[Nordic fuckers]] have declared a war on [[Savinterra]]","id":"b7d47af9ccb487ad","x":-1287,"y":-414,"width":250,"height":104,"color":"4"},
+		{"type":"text","text":"Due to the end of [[The Murder of The_Unbeliver.canvas]], [[The_Unbeliever_]] is now on [[Alacramo]]'s side","id":"dc480860c41b2e19","x":-1220,"y":-40,"width":280,"height":122,"color":"1"},
+		{"type":"text","text":"[[Nordic fuckers]] Cover [[Alacramo]]'s church in cati in an attempt to slow him down","id":"2a3799119e8604d9","x":-1505,"y":-104,"width":250,"height":125,"color":"4"},
+		{"type":"text","text":"[[DarthWaffle]] constructs a tree themed beacon at [[Subject 54]], as an addition to the town","id":"8decfe6a47786f60","x":-1760,"y":-80,"width":235,"height":120,"color":"4"},
+		{"type":"text","text":"[[Alacramo]], to fuck with [[DarthWaffle]], converts it to a deepslate theme","id":"190b8458ecfba95e","x":-2010,"y":52,"width":250,"height":108,"color":"1"},
+		{"type":"text","text":"[[The Barrel Admirer]], in an interesting twist, changes it to a barrel tree theme, in the middle of april","id":"1dae2a9f9350d40a","x":-1960,"y":280,"width":280,"height":120,"color":"#000000"},
+		{"type":"text","text":"[[CallMeDoc_]], noticing this fuckery, converts it to its \"\"final\"\" state, with a spruce theme, like the platforms of [[Subject 54]]","id":"304b26daf5394f9c","x":-2280,"y":180,"width":250,"height":160,"color":"5"},
+		{"type":"text","text":"There to kill [[Alacramo]]:\n[[DarthWaffle]]\n[[ProfMonkey07]]\n\nThere to protect [[Alacramo]]:\n[[Alacramo]]\n[[Savinterra]]\n[[The_Unbeliever_]]","id":"d0e8723db93e6c38","x":-1656,"y":-520,"width":262,"height":275,"color":"#ffffff"}
 	],
 	"edges":[
 		{"id":"3d93a1a08d49c59f","fromNode":"33759a0263cc7a80","fromSide":"bottom","toNode":"b7d47af9ccb487ad","toSide":"top"},
