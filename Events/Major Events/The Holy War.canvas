@@ -5,8 +5,13 @@
 		{"type":"text","text":"[[The_Unbeliever_]] sensed the possibility of bloodshed and decided to travel worlds to Cordova","id":"1c3c46fae2875628","x":-966,"y":-425,"width":250,"height":125},
 		{"type":"text","text":"[[Noble_Oraiste]] is currently crying in a corner hoping to god [[Alacramo]] doesn't win the war","id":"93970db6bac289eb","x":-966,"y":-262,"width":250,"height":117},
 		{"type":"text","text":"Thus, the [[Nordic fuckers]] have declared a war on [[Savinterra]]","id":"b7d47af9ccb487ad","x":-1287,"y":-414,"width":250,"height":104},
-		{"id":"2a3799119e8604d9","x":-1537,"y":-145,"width":250,"height":125,"type":"text","text":"[[Nordic fuckers]] Cover [[Alacramo]]'s church in cati in an attempt to slow him down"},
-		{"type":"text","text":"There to kill [[Alacramo]]:\n[[DarthWaffle]]\n[[ProfMonkey07]]\n\nThere to protect [[Alacramo]]:\n[[Alacramo]]\n[[Savinterra]]\n\nJust there to kill people:\n[[The_Unbeliever_]]","id":"d0e8723db93e6c38","x":-1636,"y":-499,"width":262,"height":275}
+		{"type":"text","text":"There to kill [[Alacramo]]:\n[[DarthWaffle]]\n[[ProfMonkey07]]\n\nThere to protect [[Alacramo]]:\n[[Alacramo]]\n[[Savinterra]]\n\nJust there to kill people:\n[[The_Unbeliever_]]","id":"d0e8723db93e6c38","x":-1636,"y":-499,"width":262,"height":275},
+		{"id":"dc480860c41b2e19","x":-1220,"y":-40,"width":280,"height":122,"type":"text","text":"Due to the end of [[The Murder of The_Unbeliver.canvas]], [[The_Unbeliever_]] is now on [[Alacramo]]'s side"},
+		{"type":"text","text":"[[Nordic fuckers]] Cover [[Alacramo]]'s church in cati in an attempt to slow him down","id":"2a3799119e8604d9","x":-1505,"y":-104,"width":250,"height":125},
+		{"id":"8decfe6a47786f60","x":-1760,"y":-80,"width":235,"height":120,"type":"text","text":"[[DarthWaffle]] constructs a tree themed beacon at [[Subject 54]], as an addition to the town"},
+		{"id":"190b8458ecfba95e","x":-2010,"y":52,"width":250,"height":108,"type":"text","text":"[[Alacramo]], to fuck with [[DarthWaffle]], converts it to a deepslate theme"},
+		{"id":"1dae2a9f9350d40a","x":-1960,"y":280,"width":280,"height":120,"type":"text","text":"[[The Barrel Admirer]], in an interesting twist, changes it to a barrel tree theme, in the middle of april"},
+		{"id":"304b26daf5394f9c","x":-2280,"y":180,"width":250,"height":160,"type":"text","text":"[[CallMeDoc_]], noticing this fuckery, converts it to its \"\"final\"\" state, with a spruce theme, like the platforms of [[Subject 54]]"}
 	],
 	"edges":[
 		{"id":"3d93a1a08d49c59f","fromNode":"33759a0263cc7a80","fromSide":"bottom","toNode":"b7d47af9ccb487ad","toSide":"top"},
@@ -14,6 +19,11 @@
 		{"id":"d26c606a0fe8efb4","fromNode":"b7d47af9ccb487ad","fromSide":"right","toNode":"1c3c46fae2875628","toSide":"left"},
 		{"id":"8e0328fe776ddca2","fromNode":"b7d47af9ccb487ad","fromSide":"right","toNode":"93970db6bac289eb","toSide":"left"},
 		{"id":"c504c4ae76ac4f9a","fromNode":"b7d47af9ccb487ad","fromSide":"left","toNode":"d0e8723db93e6c38","toSide":"right"},
-		{"id":"3ff2a482aca78fde","fromNode":"c8d050dd8de6d81f","fromSide":"left","toNode":"2a3799119e8604d9","toSide":"top"}
+		{"id":"3ff2a482aca78fde","fromNode":"c8d050dd8de6d81f","fromSide":"left","toNode":"2a3799119e8604d9","toSide":"top"},
+		{"id":"e3bb2e411529f525","fromNode":"c8d050dd8de6d81f","fromSide":"bottom","toNode":"dc480860c41b2e19","toSide":"top"},
+		{"id":"0cd18c0b25daff65","fromNode":"c8d050dd8de6d81f","fromSide":"left","toNode":"8decfe6a47786f60","toSide":"top"},
+		{"id":"2a6196a07034edb0","fromNode":"8decfe6a47786f60","fromSide":"left","toNode":"190b8458ecfba95e","toSide":"top"},
+		{"id":"ad69b667a2f63229","fromNode":"190b8458ecfba95e","fromSide":"bottom","toNode":"1dae2a9f9350d40a","toSide":"top"},
+		{"id":"63bfa5268ca8870c","fromNode":"1dae2a9f9350d40a","fromSide":"left","toNode":"304b26daf5394f9c","toSide":"right"}
 	]
 }

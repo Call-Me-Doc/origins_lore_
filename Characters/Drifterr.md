@@ -1,26 +1,17 @@
-Pronouns: (ex: He / Him)
+He / Him
 
 Aliases:
- list of aliases here
- hit enter to keep going
- hit enter twice to stop the collapsible list
-Origin: put the fucker's orgin here, i.e. Phantom
-
-Tutorial:
- // Name a category and proceed to place a space on the next line to make the rest of the category collapsible.
-  kinda like this. if you don't quite have anything to put in the category yet, just put placeholder  text otherwise it won't collapse
- //
  
- 
- \\\ (put 3 backslashes to have 2 show up, its formatting weirdness) this line for extra elaboration on the above note)
+Origin: Phantom
 
 Traits:
- // notes for a user, i.e. personality traits, bits of lore they were in, dont really matter, just put it in here!
+ // came from a far off land to discover new technology, sadly he only found medieval era tech, along with "only a spoonful" of magic. 
+  \\\ upon arriving and finding this out, he attempted to leave, but his ship had sunk, and nobody else knew how to actually make or pilot any boat larger than a canoe. he also managed to lose his extensive notes on his land's technology, and thus his abilty to Create.
+ // really good with computers, which he created himself and taught to some of the locals upon being stranded
  
 Relationships:
- // this area charater's relations with other charater, for example, how Alcramo sacrificed himself to revive Noble
+ // lives in [[Subject 54]]
  
- // or if someone is canonically married, or arch enemies with someone
+ // 
 
-Quotes
- "this is for quotes that may help charaterise the charater, or other shit, idk man" - CallMeDoc, while writing this template
+Quotes:
