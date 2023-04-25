@@ -25,6 +25,8 @@ Traits:
 
  // Still not entirely sure on why the two religions insist on fighting each other
 
+ // His butterknife is known to be sentient and extremely bloodthirsty but cannot communicate in any way. Also resizes for it's weilder.
+
 Relavent Story Points:
  // Created most of [[Subject 54]] practially alone, after being shown the location by [[Noble_Oraiste]]
 
