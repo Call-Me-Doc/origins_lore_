@@ -31,6 +31,8 @@ Traits:
 
  // Is legally required to commit a "Technoblade Refrence" if a government is formed near him. we do not know what this means.
 
+ // Some cultures believe him to be a woman because he enjoys dressing as a woman in some lands.
+
  // Has fucked a crab. You get bored after a few thousand years.
 
  // Has made an ongoing bet for [[TheVibeGod]]'s head, binding their soul to it.
