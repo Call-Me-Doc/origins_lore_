@@ -49,3 +49,4 @@ Quotes:
  "YOUR MOM OR DAD, CLEARLY" - Unb referring to [[TheVibeGod]]'s question, "Who fucked a shulk?"
  "Alchohol to blood ratio, a shulker's blood is 100% lean"
  "I'm going to make all the water in your house permanently lukewarm." -In anger towards [[Noble_Oraiste]]
+   "No human can kill me. A car however- A car is distinctly not human."

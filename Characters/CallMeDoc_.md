@@ -53,3 +53,11 @@ Quotes:
  // "If they're not at least 85% lean, they're not shulkers"
  
  // "HOW ARE YOU UNCONCIOUS, YOU GOT HIT BY MISSILES"
+
+ // "What are you going to hit these bastards with? The Griddy?"
+ 
+ // "If you UwU in my general direction I will hit you with a steel pipe."
+
+ // "being a landlord covers the bills, but not the fulfillment of having a job"
+
+ // "My dog got on my keyboard."

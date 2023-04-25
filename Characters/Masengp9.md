@@ -16,3 +16,5 @@ Relationships:
 
 Quotes:
 
+"Just choke yourself out to go to sleep."
+
