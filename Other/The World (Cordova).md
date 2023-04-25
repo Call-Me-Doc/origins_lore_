@@ -83,6 +83,9 @@ Fun Facts:
 
  // Cordova is a land of myth where fantasies come true, one of which being the dead rising from their grave on their own. The actual cause of this is a sheep, who drank from the Fountain of Life and attained immortality, who was cursed by a necromancer that was annoyed by it chewing his robe and then dumped in Cordova. The curse caused dead bodies around the sheep to reanimate, but unintentionality made the undead treat the sheep as their summoner and so not attack the sheep, even following it's will. As it's will is to eat because it is an animal the undead will attack people in search of food.
 
+// Cordova was also in the past known for it's abundance of maid dresses, caused by a petty gold-hating maid-obsessed magus who sacrificed her life to curse all gold on the continent of Cordova to become a maid dress if crafted into armor. This is no longer considered special as the curse eventually spread to the rest of the world.
+	\\\ This includes accesories, causing necklaces to become cute chokers for example.
+
 
 Other:
 // [[The Console]]
