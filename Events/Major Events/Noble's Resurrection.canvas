@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"type":"text","text":"(The demon lord actually being the god of luck, [[Noble_Oraiste]])","id":"413a4122aaf3a10b","x":-425,"y":19,"width":284,"height":86},
-		{"type":"text","text":"[[Alacramo]] researched ways of reviving a lost soul but he eventually came to the conclusion that the only way he was gonna end up being able to revive them was by sacrificing himself to the world. A matter of equivelent exchange, causing him to build an alter for the sacrifice.","id":"25e1fb5089cafaf0","x":-89,"y":-294,"width":276,"height":294},
-		{"type":"file","file":"Locations/The Underdark.md","id":"e81d5fc968072630","x":240,"y":-247,"width":400,"height":200},
-		{"type":"text","text":"[[Alacramo]] Heard something about a dead true demon lord's soul floating around somewhere a while back. After realizing the possible chaos to be made, he decided that he might be able to figure out how to revive the demon lord.","id":"c0180f96a7d6a62b","x":-425,"y":-272,"width":284,"height":250}
+		{"type":"text","text":"[[Alacramo]] Heard something about a dead true demon lord's soul floating around somewhere a while back. After realizing the possible chaos to be made, he decided that he might be able to figure out how to revive the demon lord.","id":"c0180f96a7d6a62b","x":-480,"y":-297,"width":284,"height":250,"color":"1"},
+		{"type":"text","text":"[[Alacramo]] researched ways of reviving a lost soul but he eventually came to the conclusion that the only way he was gonna end up being able to revive them was by sacrificing himself to the world. A matter of equivelent exchange, causing him to build an alter for the sacrifice.","id":"25e1fb5089cafaf0","x":-36,"y":-444,"width":276,"height":294,"color":"1"},
+		{"type":"file","file":"Locations/The Underdark.md","id":"e81d5fc968072630","x":400,"y":-181,"width":400,"height":200,"color":"1"},
+		{"type":"text","text":"(The demon lord actually being the god of luck, [[Noble_Oraiste]])","id":"413a4122aaf3a10b","x":-380,"y":60,"width":284,"height":86,"color":"#f59b00"}
 	],
 	"edges":[
 		{"id":"476854b001497bdb","fromNode":"c0180f96a7d6a62b","fromSide":"bottom","toNode":"413a4122aaf3a10b","toSide":"top"},

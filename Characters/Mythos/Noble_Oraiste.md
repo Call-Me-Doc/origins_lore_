@@ -1,4 +1,5 @@
 He/Him
+\#f59b00
 
 Aliases
  Noble
