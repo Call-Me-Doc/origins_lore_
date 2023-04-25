@@ -3,7 +3,6 @@ He / Him
 Aliases:
  CJ
  CJ Magnus
- The Cursed Barrier Mage
  Irish
  
 Origin: [[Ancient Builders]]
