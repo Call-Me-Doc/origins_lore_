@@ -14,6 +14,8 @@ Traits:
 
  // After being pushed into the Void 1-2 thousand years ago they became approximately 84.7% Lean, halting their aging and thus qualifying them as a psuedogod.
 
+ // despite forklifts literally not existing, she is forklift certified
+
 Relavent Story Points:
  // [[Divorce.canvas]]
 
