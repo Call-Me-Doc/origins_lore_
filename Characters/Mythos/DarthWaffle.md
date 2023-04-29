@@ -9,7 +9,7 @@ Aliases:
 Origin: Tree?
 
 Traits:
- // is a fairy
+ // is one of the [[Faeries]]
  // is tree
 
 Relavent Story Points:
