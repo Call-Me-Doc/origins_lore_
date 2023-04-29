@@ -9,7 +9,8 @@ Origin: [[Ancient Builders]]
 
 Traits:
  // Isn't a asshole
-   \\ Is a dick
+ 
+    \\ Is a dick, however.
 
 Relavent Story Points
  Immensly Neutral

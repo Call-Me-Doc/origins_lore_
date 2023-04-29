@@ -1,4 +1,5 @@
 He / Him (?)
+\#E9973F (the default orange)
 
 Aliases:
  Nugget
@@ -13,6 +14,8 @@ Traits:
 
 Relavent Story Points:
   // divorced [[TheVibeGod]] and lost custody of the kids.
+
+    \\ eventually got re-engaged
 
 Relationships:
   //[[TheVibeGod]]  Fiance.

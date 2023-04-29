@@ -1,4 +1,5 @@
 No pronouns (He / Him)
+\#0F3701
 
 Aliases:
  Waffle

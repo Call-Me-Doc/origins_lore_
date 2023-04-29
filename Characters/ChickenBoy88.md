@@ -2,7 +2,8 @@ He / Him
 
 Aliases:
  Sam
- 
+ Chicken Boy
+
 Origin: Shulker
 
 Traits:

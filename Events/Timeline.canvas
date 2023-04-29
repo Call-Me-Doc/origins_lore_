@@ -8,7 +8,7 @@
 		{"type":"file","file":"Events/Major Events/Noble's Resurrection.canvas","id":"619a17e8d10aa367","x":520,"y":260,"width":400,"height":400,"color":"5"},
 		{"type":"text","text":"Purple: actively on hold bc of people issues, like an injury or not having access to a computer\nOrange: in progress of being prepared, not actually ready for the next bit of lore tho\nYellow: ready to go, but people havent gotten a time ready\nGreen: active, or a time has been planned out for the next lore bit\nTeal: planned out, but not actually going to happen for a while\nGrey: has already happened, so in the past","id":"e92dd26c8b720fa8","x":200,"y":-822,"width":410,"height":321},
 		{"type":"file","file":"Locations/The Underdark.md","id":"ce51f378866acb34","x":520,"y":667,"width":400,"height":186},
-		{"id":"33be0a2b4e81716b","x":-1982,"y":57,"width":283,"height":60,"type":"text","text":"All of Season 1 (not important)"},
+		{"type":"text","text":"All of Season 1 (not important)","id":"33be0a2b4e81716b","x":-1982,"y":57,"width":283,"height":60},
 		{"type":"text","text":"Season 2 Begins","id":"519c94e12f0cddeb","x":-1699,"y":-50,"width":126,"height":79},
 		{"type":"text","text":"Season 2 Residents (Excluding the previously mentioned) are born","id":"0658519e74bc957d","x":-1536,"y":-118,"width":266,"height":98},
 		{"type":"text","text":"Majority of Season 2 Charater's backstories","id":"478381271a5a13f2","x":-1230,"y":-50,"width":250,"height":98},

@@ -7,6 +7,7 @@ Residents:
  [[KarmafKat]]
  [[WindBlumeOdes]]
  [[Suspicious_Rat_]]
+ [[Drifterr]]
  ////////////////////////
 
 Shops:
