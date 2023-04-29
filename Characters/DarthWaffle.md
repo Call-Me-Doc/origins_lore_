@@ -10,6 +10,7 @@ Origin: Tree?
 
 Traits:
  // is a fairy
+ // is tree
 
 Relavent Story Points:
  [[The Holy War.canvas]]
