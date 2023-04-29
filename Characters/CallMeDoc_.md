@@ -47,6 +47,7 @@ List Of Jobs:
  // Psychatrist (see [[Divorce.canvas]])
  // Waiter at [[Cafe Leblanc]] (see [[Divorce.canvas]])
  // Professional Camera Worker (see [[Location Flythroughs.canvas]])
+ // The Singular Member of the Food and Drug Administration
  
 Quotes:
  // "as long as you don't break anyone else's shit, I don't really care" - Doc, after being asked if someone could build at [[Subject 54]] for the 3rd time that day
