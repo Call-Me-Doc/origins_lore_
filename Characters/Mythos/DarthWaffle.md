@@ -9,7 +9,7 @@ Aliases:
 Origin: Tree?
 
 Traits:
- // is a fairy
+ // Is one of the [[Faeries]]
 
 Relavent Story Points:
  [[The Holy War.canvas]]

@@ -1,4 +1,4 @@
-A religion mainly focusing on norse mythology and worshipping the fae, [[DarthWaffle]]
+A religion mainly focusing on norse mythology and worshipping the [[Faeries]], chiefly [[DarthWaffle]]
 \#B89309
 
 Members:
