@@ -13,7 +13,7 @@ Traits:
  
  // owner of [[Calder's Furniture Store]] and skydiving
  
- // was rendered unable to have children due to a Kid kicking him in the balls when he was 10
+ // was rendered unable to have children due to a Kid kicking him in the balls when he was 10, he then began looking into cloning technology to create his legacy
  
  // The sole source of 83.2% of all milk in Cordova, due to his full goat clones
 

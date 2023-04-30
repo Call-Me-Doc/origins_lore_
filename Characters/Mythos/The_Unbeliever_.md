@@ -24,12 +24,12 @@ Traits:
  // Kind of an asshole. 
 
  // Can instantly regenerate _any_ body part with minimal effort
-      \\\ yes, this includes the penis. it actually is suprisingly effective on the penis
+  \\ \\ yes, this includes the penis. it actually is suprisingly effective on the penis
  
  // Acquaintances with [[Noble_Oraiste]].
  
   // Has come from far away lands hearing that a war was brewing and are delighted with what they've found, a land who doesn't even know who they are.
-   \\\ He came by swimming, which took so long that all of his unenchanted iron gear (the best you can find on the mainland) had eroded to the point of being unusable.
+   \\ \\ He came by swimming, which took so long that all of his unenchanted iron gear (the best you can find on the mainland) had eroded to the point of being unusable.
 
  // Is legally required to commit a "Technoblade Refrence" if a government is formed near him. we do not know what this means.
 

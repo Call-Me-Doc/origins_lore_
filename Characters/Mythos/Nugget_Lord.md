@@ -14,8 +14,7 @@ Traits:
 
 Relavent Story Points:
   // divorced [[TheVibeGod]] and lost custody of the kids.
-
-    \\ eventually got re-engaged
+   \\ \\ eventually got re-engaged
 
 Relationships:
   //[[TheVibeGod]]  Fiance.
