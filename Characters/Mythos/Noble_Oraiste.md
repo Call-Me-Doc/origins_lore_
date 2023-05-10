@@ -7,6 +7,7 @@ Aliases:
  Poseidon
  Bitch Boy
  The Dead god
+ Good boy   - [[Disgrace]]
  
 Origin: Phantom
 
