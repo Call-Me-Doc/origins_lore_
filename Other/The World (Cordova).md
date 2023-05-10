@@ -53,6 +53,7 @@ Players:
  // [[Suspicious_Rat_]]
  // [[ChickenBoy88]]
  // [[Drifterr]]
+ // [[Disgrace]]
 
 Npcs:
  // [[The Barrel Admirer]]

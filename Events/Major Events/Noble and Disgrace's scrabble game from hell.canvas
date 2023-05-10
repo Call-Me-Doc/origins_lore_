@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"00ce7586090bcde2","x":-120,"y":-220,"width":250,"height":88,"type":"text","text":"[[Disgrace]] decided that they would play a 3 out of 5 game of scrabble."},
+		{"id":"9eb43658272b7c88","x":220,"y":-176,"width":250,"height":150,"type":"text","text":"The first game ended up not counting because they got disconnected from the game before they could finish it\n"},
+		{"id":"228b6ffb429a3f58","x":560,"y":48,"width":250,"height":60,"type":"text","text":"[[Noble_Oraiste]] won the next 3 games of scrabble"},
+		{"id":"8af0ed2328ac33d2","x":-620,"y":-70,"width":250,"height":148,"type":"text","text":"[[Noble_Oraiste]] proposes a magic induced bet to [[Disgrace]], upon which, whoever wins got the other's soul."},
+		{"id":"92aff38dadacf1d3","x":-620,"y":130,"width":250,"height":71,"type":"text","text":"Note: [[Noble_Oraiste]] let [[Disgrace]] pick the game"},
+		{"id":"206b7fd0743f3bb5","x":-300,"y":-26,"width":250,"height":60,"type":"text","text":"[[Disgrace]] accepts the bet\n"},
+		{"id":"54f1459f6522017a","x":220,"y":422,"width":250,"height":68,"type":"text","text":"[[Noble_Oraiste]]: I'm already dead though."},
+		{"id":"c0d64c92f2556a53","x":220,"y":285,"width":250,"height":60,"type":"text","text":"[[Disgrace]]: I hope you fucking die"},
+		{"id":"ef91061cced4b179","x":220,"y":166,"width":250,"height":59,"type":"text","text":"[[Disgrace]]: (╯°□°)╯︵ ┻━┻"}
+	],
+	"edges":[
+		{"id":"7ce5773ce42c249c","fromNode":"8af0ed2328ac33d2","fromSide":"bottom","toNode":"92aff38dadacf1d3","toSide":"top"},
+		{"id":"440516bc454af8b4","fromNode":"00ce7586090bcde2","fromSide":"right","toNode":"9eb43658272b7c88","toSide":"left"},
+		{"id":"fd436a24ea37ec1d","fromNode":"9eb43658272b7c88","fromSide":"right","toNode":"228b6ffb429a3f58","toSide":"left"},
+		{"id":"409c169fc4754c70","fromNode":"8af0ed2328ac33d2","fromSide":"right","toNode":"206b7fd0743f3bb5","toSide":"left"},
+		{"id":"e2b90799160aa012","fromNode":"206b7fd0743f3bb5","fromSide":"top","toNode":"00ce7586090bcde2","toSide":"left"},
+		{"id":"7d6af300c9d8c3a7","fromNode":"c0d64c92f2556a53","fromSide":"bottom","toNode":"54f1459f6522017a","toSide":"top"},
+		{"id":"8725baf34a878929","fromNode":"228b6ffb429a3f58","fromSide":"left","toNode":"ef91061cced4b179","toSide":"right"},
+		{"id":"68ccb1b507305a2b","fromNode":"ef91061cced4b179","fromSide":"bottom","toNode":"c0d64c92f2556a53","toSide":"top"}
+	]
+}

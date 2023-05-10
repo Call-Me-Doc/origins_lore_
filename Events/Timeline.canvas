@@ -1,20 +1,21 @@
 {
 	"nodes":[
 		{"type":"text","text":"[[Subject 54]]'s Creation\n\nContributors:\n[[CallMeDoc_]]\n[[Noble_Oraiste]]","id":"6256898dabef15c6","x":-830,"y":-67,"width":250,"height":140},
-		{"type":"file","file":"Events/The Peggening..canvas","id":"9139c9030c807798","x":-980,"y":267,"width":400,"height":400},
 		{"type":"file","file":"Events/Major Events/Divorce.canvas","id":"298e7cc9e270c6ee","x":-360,"y":-501,"width":400,"height":400},
-		{"type":"file","file":"Events/Major Events/The Murder of The_Unbeliver.canvas","id":"d65ceb45888ff8c6","x":240,"y":-397,"width":480,"height":400},
-		{"type":"file","file":"Events/Major Events/The Holy War.canvas","id":"12b3dfbbef2be4e1","x":-160,"y":200,"width":400,"height":400,"color":"2"},
-		{"type":"file","file":"Events/Major Events/Noble's Resurrection.canvas","id":"619a17e8d10aa367","x":520,"y":260,"width":400,"height":400,"color":"5"},
 		{"type":"text","text":"Purple: actively on hold bc of people issues, like an injury or not having access to a computer\nOrange: in progress of being prepared, not actually ready for the next bit of lore tho\nYellow: ready to go, but people havent gotten a time ready\nGreen: active, or a time has been planned out for the next lore bit\nTeal: planned out, but not actually going to happen for a while\nGrey: has already happened, so in the past","id":"e92dd26c8b720fa8","x":200,"y":-822,"width":410,"height":321},
-		{"type":"file","file":"Locations/The Underdark.md","id":"ce51f378866acb34","x":520,"y":667,"width":400,"height":186},
 		{"type":"text","text":"All of Season 1 (not important)","id":"33be0a2b4e81716b","x":-1982,"y":57,"width":283,"height":60},
 		{"type":"text","text":"Season 2 Begins","id":"519c94e12f0cddeb","x":-1699,"y":-50,"width":126,"height":79},
 		{"type":"text","text":"Season 2 Residents (Excluding the previously mentioned) are born","id":"0658519e74bc957d","x":-1536,"y":-118,"width":266,"height":98},
 		{"type":"text","text":"Majority of Season 2 Charater's backstories","id":"478381271a5a13f2","x":-1230,"y":-50,"width":250,"height":98},
 		{"type":"text","text":"[[Masengp9]], [[CJ_The_Mage]], [[Noble_Oraiste]], [[The_Unbeliever_]], and [[DarthWaffle]] come into existence","id":"352cc0f47ef08bee","x":-2107,"y":-294,"width":250,"height":146},
 		{"type":"text","text":"Season 1","id":"1a60311481901009","x":-1821,"y":-159,"width":124,"height":60},
-		{"type":"text","text":"Creation of the Cordova","id":"16e8258869c5ce6e","x":-2300,"y":-99,"width":240,"height":60}
+		{"type":"text","text":"Creation of the Cordova","id":"16e8258869c5ce6e","x":-2300,"y":-99,"width":240,"height":60},
+		{"type":"file","file":"Events/Major Events/The Murder of The_Unbeliver.canvas","id":"d65ceb45888ff8c6","x":330,"y":-352,"width":480,"height":400},
+		{"type":"file","file":"Events/Major Events/Noble's Resurrection.canvas","id":"619a17e8d10aa367","x":610,"y":305,"width":400,"height":400,"color":"5"},
+		{"type":"file","file":"Locations/The Underdark.md","id":"ce51f378866acb34","x":610,"y":745,"width":400,"height":186},
+		{"type":"file","file":"Events/The Peggening..canvas","id":"9139c9030c807798","x":-1105,"y":245,"width":400,"height":400},
+		{"type":"file","file":"Events/Major Events/The Holy War.canvas","id":"12b3dfbbef2be4e1","x":0,"y":200,"width":400,"height":400,"color":"2"},
+		{"id":"2d0247cc3f9b1d34","x":-640,"y":305,"width":400,"height":400,"type":"file","file":"Events/Major Events/Noble and Disgrace's scrabble game from hell.canvas"}
 	],
 	"edges":[
 		{"id":"14012a99d9e9e535","fromNode":"352cc0f47ef08bee","fromSide":"right","toNode":"1a60311481901009","toSide":"top"},
@@ -29,6 +30,7 @@
 		{"id":"6a59e675ce9402ed","fromNode":"d65ceb45888ff8c6","fromSide":"bottom","toNode":"12b3dfbbef2be4e1","toSide":"top"},
 		{"id":"47ee58993fc1ab88","fromNode":"12b3dfbbef2be4e1","fromSide":"right","toNode":"619a17e8d10aa367","toSide":"left"},
 		{"id":"c93ad1f75d792746","fromNode":"1a60311481901009","fromSide":"bottom","toNode":"33be0a2b4e81716b","toSide":"top"},
-		{"id":"26250b7151e025fb","fromNode":"33be0a2b4e81716b","fromSide":"right","toNode":"519c94e12f0cddeb","toSide":"bottom"}
+		{"id":"26250b7151e025fb","fromNode":"33be0a2b4e81716b","fromSide":"right","toNode":"519c94e12f0cddeb","toSide":"bottom"},
+		{"id":"f14f75241527e5a1","fromNode":"6256898dabef15c6","fromSide":"bottom","toNode":"2d0247cc3f9b1d34","toSide":"top"}
 	]
 }
