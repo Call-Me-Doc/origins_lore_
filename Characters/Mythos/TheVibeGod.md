@@ -16,6 +16,8 @@ Traits:
 
  // despite forklifts literally not existing, she is forklift certified
 
+ // their mother was a trapdoor salesman
+
 Relavent Story Points:
  // [[Divorce.canvas]]
 
