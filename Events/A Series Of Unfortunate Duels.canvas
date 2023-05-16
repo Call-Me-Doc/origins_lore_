@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"965d61ecda055ebc","x":-260,"y":-120,"width":380,"height":155,"type":"text","text":"[[The_Unbeliever_]] personally challenges every Inchling to a duel. This included [[CallMeDoc_]] and [[Alacramo]]. [[CallMeDoc_]] decided to foolishly duel him in the [[Fighting Pit]].\n[[ChickenBoy88]] and [[Noble_Oraiste]] watched."},
-		{"id":"b63b565bec5690fb","x":280,"y":60,"width":250,"height":60,"type":"text","text":"bug doc to make the replay look nice and upload it"}
+		{"type":"text","text":"[[The_Unbeliever_]] personally challenges every Inchling to a duel. This included [[CallMeDoc_]] and [[Alacramo]]. [[CallMeDoc_]] decided to foolishly duel him in the [[Fighting Pit]].\n[[ChickenBoy88]] and [[Noble_Oraiste]] watched.","id":"965d61ecda055ebc","x":-260,"y":-120,"width":380,"height":155},
+		{"type":"text","text":"bug doc to make the replay look nice and upload it","id":"b63b565bec5690fb","x":280,"y":60,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"c4ec4fc960ae985d","fromNode":"965d61ecda055ebc","fromSide":"right","toNode":"b63b565bec5690fb","toSide":"left"}
