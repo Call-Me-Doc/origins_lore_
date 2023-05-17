@@ -1,7 +1,8 @@
 Factions:
  // [[Church Of The CockBlock]]
- // [[Nordic fuckers]]
+ // [[Factions/Tree Shrine|Tree Shrine]]
  // [[The Town]]
+ // [[αίμα deus]]
 
 Events:
  // [[The FBI Raid]]
@@ -16,7 +17,7 @@ Locations:
  // [[Subject 54]]
  // [[Subject 55]]
  // [[Venti's Home]]
- // [[Tree Shrine]]
+ // [[Locations/Tree Shrine|Tree Shrine]]
  // [[Cock Blocked Church]]
  // [[The Floating Isles]]
  // [[The Underdark]]
@@ -59,10 +60,14 @@ Npcs:
  // [[The Barrel Admirer]]
  // [[Alacramo's Mother]]
  // [[Rat's Benifactor]]
+ // [[Dragons]]
+
+[[Faeries]]:
+ // [[DarthWaffle]]
 
 [[Ancient Builders]]:
-// [[CJ_The_Mage]]
-// [[Masengp9]]
+ // [[CJ_The_Mage]]
+ // [[Masengp9]]
 
 [[Gods]]:
  // [[Noble_Oraiste]]

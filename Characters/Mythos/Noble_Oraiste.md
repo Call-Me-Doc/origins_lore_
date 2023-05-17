@@ -31,7 +31,7 @@ Relationships:
  
  // [[ProfMonkey07]] lives closer to civilization because [[Noble_Oraiste]] asked him to serve milk at [[Subject 54]]
  
- // [[Tree Shrine]]/[[Nordic fuckers]] isn't particularly in the best standing with [[Noble_Oraiste]] but they have general respect for him.
+ //The [[Tree Shrine]] isn't particularly in the best standing with [[Noble_Oraiste]] but they have general respect for him.
  
  // Started [[Bakery Leblanc]] to spite [[Alacramo]] and [[Nugget_Lord]] into going into business with him.
  
