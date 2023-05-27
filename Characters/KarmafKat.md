@@ -9,7 +9,7 @@ Lives on top of [[Subject 54]]'s ravine, in a mushroom hut
 
 Traits:
 
-// Baddest and awesomest and coolest perseon here (real)
+// Baddest and awesomest and coolest person here (real)
 
 // Is batshit insane, and worships the skulk 
 

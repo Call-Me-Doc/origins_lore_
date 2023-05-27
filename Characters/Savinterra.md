@@ -8,7 +8,7 @@ Origin: Twisted branch
 
 Traits:
 
-Relavent Story Point:
+Relevant Story Point:
 
 // started the [[The Holy War.canvas]] via a little arson to their sacred oak sapling
 

@@ -14,7 +14,7 @@ Traits:
  // Steals pronouns so often that people become confused on what theirs' are
  //  legal owner of [[Noble_Oraiste]]'s firstborn child, however, due to a muddy contract, this may actually be [[Noble_Oraiste]]'s eldest _living_ child at the time of the signing of the contract, who is [[CallMeDoc_]]
 
-Relavent Story Points:
+Relevant Story Points:
 
 
 Relationships:

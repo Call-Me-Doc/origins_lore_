@@ -24,7 +24,7 @@ Traits:
  // Kind of an asshole. 
 
  // Can instantly regenerate _any_ body part with minimal effort
-  \\ \\ yes, this includes the penis. it actually is suprisingly effective on the penis
+  \\ \\ yes, this includes the penis. it actually is surprisingly effective on the penis
  
  // Acquaintances with [[Noble_Oraiste]].
  
@@ -41,7 +41,7 @@ Traits:
 
  // Held [[CallMeDoc_]] at swordpoint to craft an ultimate weapon for them, but accidentally left them with enough materials to craft a second.
 
-Places of Worship: The bloodsoaked ground is his temple, every battle is an act of worship to him. 
+Places of Worship: The blood-soaked ground is his temple, every battle is an act of worship to him. 
 
 Religion: Most everyone knows of the war god in one way or another, with the exception of the land they've come to recently, too peaceful (until recently) to know the blood god's name. 
 

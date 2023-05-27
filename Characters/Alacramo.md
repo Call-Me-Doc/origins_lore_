@@ -15,7 +15,7 @@ Traits:
  
  // owns a Bakery in [[Subject 54]]
 
-Relavent Story Points:
+Relevant Story Points:
  // Main Goal: Revive [[Noble_Oraiste]]
 
 

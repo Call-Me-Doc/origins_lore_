@@ -4,7 +4,7 @@ Origin: Jesus
 
 Traits:
 
-Relavent Story Points:
+Relevant Story Points:
 
 Relationships:
 

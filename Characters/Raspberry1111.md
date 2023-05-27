@@ -10,7 +10,7 @@ Origin: Truffle
 
 Traits:
 
-Relavent Story Points:
+Relevant Story Points:
  // Has limited access to [[The Console]] via [[Project3c]]
 
 Relationships:

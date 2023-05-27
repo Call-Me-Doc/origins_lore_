@@ -24,10 +24,10 @@ Traits:
 
  // Still not entirely sure on why the two religions insist on fighting each other
 
- // Their butterknife is known to be sentient and extremely bloodthirsty but cannot communicate in any way. Also resizes for it's weilder.
+ // Their butterknife is known to be sentient and extremely bloodthirsty but cannot communicate in any way. Also resizes for it's wielder.
 
-Relavent Story Points:
- // Created most of [[Subject 54]] practially alone, after being shown the location by [[Noble_Oraiste]]
+Relevant Story Points:
+ // Created most of [[Subject 54]] practically alone, after being shown the location by [[Noble_Oraiste]]
 
 Relationships:
  // Terrified of [[The_Unbeliever_]]
@@ -42,7 +42,7 @@ Relationships:
 List Of Jobs:
  // Landlord (see [[Subject 54]])
  // Lawyer (see [[Divorce.canvas]])
- // Psychatrist (see [[Divorce.canvas]])
+ // Psychiatrist (see [[Divorce.canvas]])
  // Waiter at [[Cafe Leblanc]] (see [[Divorce.canvas]])
  // Professional Camera Worker (see [[Location Flythroughs.canvas]])
  // The Singular Member of the Food and Drug Administration

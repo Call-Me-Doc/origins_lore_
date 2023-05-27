@@ -11,8 +11,8 @@ Traits:
  // Isn't a asshole
   \\ \\ Is a dick, however.
 
-Relavent Story Points
- Immensly Neutral
+Relevant Story Points
+ Immensely Neutral
 
 Relationships:
  Friends (Brothers?) with [[Masengp9]]

@@ -1,4 +1,4 @@
-Any Pronouns (exept "it)
+Any Pronouns (except "it)
 \#000000
 
 Aliases:
