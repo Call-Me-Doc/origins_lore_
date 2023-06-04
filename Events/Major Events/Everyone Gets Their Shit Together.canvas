@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"type":"text","text":"[[Factions/Tree Shrine|Tree Shrine]] and [[Church Of The CockBlock]] notice [[StoneWard]] actually starting to become a formidable foe, and decide to end the [[The Holy War.canvas|The Holy War]] and form a single megachurch to obtain full religious control of Cordova, as well as eliminate any heretics","id":"7f74200d656c37ed","x":-900,"y":-160,"width":370,"height":180,"color":"#ff75fa"},
+		{"type":"text","text":"List Of Heretics:\n- [[StoneWard]]\n- ","id":"15863f3c36ecc06e","x":-840,"y":100,"width":250,"height":220}
+	],
+	"edges":[]
+}
