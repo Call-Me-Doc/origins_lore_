@@ -1,0 +1,1 @@
+one of the [[StoneWard]] people, lives in [[Grout Mountain]]
