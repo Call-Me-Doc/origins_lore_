@@ -1,4 +1,3 @@
-this is a template for people to use for writing out charaters
 
 Pronouns: He / It?
 
