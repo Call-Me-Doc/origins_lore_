@@ -20,7 +20,7 @@ Traits:
  // Too weak to actually do anything.
  
 Relationships:
- // Takes refugee in [[Stoneward]] with [[Drifterr]] because of his Xenophobia.
+ // Takes refugee in [[StoneWard]] with [[Drifterr]] because of his Xenophobia.
  
 
 Quotes:

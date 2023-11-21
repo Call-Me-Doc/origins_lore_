@@ -8,15 +8,14 @@
 		{"type":"text","text":"[[Masengp9]], [[CJ_The_Mage]], [[Noble_Oraiste]], [[The_Unbeliever_]], and [[DarthWaffle]] come into existence","id":"352cc0f47ef08bee","x":-2107,"y":-294,"width":250,"height":146},
 		{"type":"text","text":"Season 1","id":"1a60311481901009","x":-1821,"y":-159,"width":124,"height":60},
 		{"type":"text","text":"Creation of the Cordova","id":"16e8258869c5ce6e","x":-2300,"y":-99,"width":240,"height":60},
-		{"type":"file","file":"Events/Major Events/Noble and Disgrace's scrabble game from hell.canvas","id":"2d0247cc3f9b1d34","x":-640,"y":305,"width":400,"height":248},
-		{"type":"file","file":"Events/Major Events/The Holy War.canvas","id":"12b3dfbbef2be4e1","x":0,"y":200,"width":570,"height":400},
-		{"type":"text","text":"Purple: actively on hold bc of people issues, like an injury or not having access to a computer\nOrange: in progress of being prepared, not actually ready for the next bit of lore tho\nYellow: ready to go, but people havent gotten a time ready\nGreen: active, or a time has been planned out for the next lore bit\nTeal: planned out, but not actually going to happen for a while\nGrey: has already happened, so in the past","id":"e92dd26c8b720fa8","x":1150,"y":-673,"width":410,"height":321},
-		{"type":"file","file":"Events/The Peggening..canvas","id":"9139c9030c807798","x":-1242,"y":248,"width":525,"height":305},
-		{"type":"file","file":"Events/Major Events/Divorce.canvas","id":"298e7cc9e270c6ee","x":-360,"y":-381,"width":400,"height":181},
-		{"type":"file","file":"Events/Major Events/The Murder of The_Unbeliver.canvas","id":"d65ceb45888ff8c6","x":200,"y":-290,"width":560,"height":288},
-		{"type":"file","file":"Events/Major Events/Everyone Stops Having Their Shit Together.canvas","id":"1b0b55bcd723dd75","x":1040,"y":-200,"width":400,"height":400},
-		{"type":"file","file":"Events/Major Events/Noble's Resurrection.canvas","id":"619a17e8d10aa367","x":1720,"y":400,"width":400,"height":400,"color":"5"},
-		{"type":"file","file":"Locations/The Underdark.md","id":"ce51f378866acb34","x":1720,"y":820,"width":400,"height":186}
+		{"type":"file","file":"Season 2 Content/Season 2 Events/Noble and Disgrace's scrabble game from hell.canvas","id":"2d0247cc3f9b1d34","x":-640,"y":305,"width":400,"height":248},
+		{"type":"file","file":"Season 2 Content/Season 2 Events/The Holy War.canvas","id":"12b3dfbbef2be4e1","x":0,"y":200,"width":570,"height":400},
+		{"type":"file","file":"Season 2 Content/Season 2 Events/The Peggening..canvas","id":"9139c9030c807798","x":-1242,"y":248,"width":525,"height":305},
+		{"type":"file","file":"Season 2 Content/Season 2 Events/Divorce.canvas","id":"298e7cc9e270c6ee","x":-360,"y":-381,"width":400,"height":181},
+		{"type":"file","file":"Season 2 Content/Season 2 Events/The Murder of The_Unbeliver.canvas","id":"d65ceb45888ff8c6","x":200,"y":-290,"width":560,"height":288},
+		{"type":"file","file":"Season 2 Content/Season 2 Events/Everyone Stops Having Their Shit Together.canvas","id":"1b0b55bcd723dd75","x":1040,"y":-200,"width":400,"height":400},
+		{"id":"852a593c58e041ce","x":1640,"y":-30,"width":250,"height":60,"type":"text","text":"Season 2 Ends"},
+		{"type":"file","file":"Season 2 Content/Season 2 Events/Season 2 Epilogue.canvas","id":"619a17e8d10aa367","x":2080,"y":-200,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"14012a99d9e9e535","fromNode":"352cc0f47ef08bee","fromSide":"right","toNode":"1a60311481901009","toSide":"top"},
@@ -29,11 +28,12 @@
 		{"id":"5ac7f5bdb8592dc3","fromNode":"6256898dabef15c6","fromSide":"right","toNode":"298e7cc9e270c6ee","toSide":"left"},
 		{"id":"d2e0449d666b7b2f","fromNode":"6256898dabef15c6","fromSide":"bottom","toNode":"9139c9030c807798","toSide":"top"},
 		{"id":"6a59e675ce9402ed","fromNode":"d65ceb45888ff8c6","fromSide":"bottom","toNode":"12b3dfbbef2be4e1","toSide":"top"},
-		{"id":"47ee58993fc1ab88","fromNode":"12b3dfbbef2be4e1","fromSide":"right","toNode":"619a17e8d10aa367","toSide":"left"},
 		{"id":"c93ad1f75d792746","fromNode":"1a60311481901009","fromSide":"bottom","toNode":"33be0a2b4e81716b","toSide":"top"},
 		{"id":"26250b7151e025fb","fromNode":"33be0a2b4e81716b","fromSide":"right","toNode":"519c94e12f0cddeb","toSide":"bottom"},
 		{"id":"f14f75241527e5a1","fromNode":"6256898dabef15c6","fromSide":"bottom","toNode":"2d0247cc3f9b1d34","toSide":"top"},
 		{"id":"280530cb7d9e324d","fromNode":"d65ceb45888ff8c6","fromSide":"right","toNode":"1b0b55bcd723dd75","toSide":"left"},
-		{"id":"fadf888aea990a10","fromNode":"12b3dfbbef2be4e1","fromSide":"right","toNode":"1b0b55bcd723dd75","toSide":"left"}
+		{"id":"fadf888aea990a10","fromNode":"12b3dfbbef2be4e1","fromSide":"right","toNode":"1b0b55bcd723dd75","toSide":"left"},
+		{"id":"27181222a0355a2c","fromNode":"1b0b55bcd723dd75","fromSide":"right","toNode":"852a593c58e041ce","toSide":"left"},
+		{"id":"b470127360efc871","fromNode":"852a593c58e041ce","fromSide":"right","toNode":"619a17e8d10aa367","toSide":"left"}
 	]
 }

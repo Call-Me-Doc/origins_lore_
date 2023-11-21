@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"type":"text","text":"[[Alacramo]] Heard something about a dead true demon lord's soul floating around somewhere a while back. After realizing the possible chaos to be made, he decided that he might be able to figure out how to revive the demon lord.\n(The demon lord actually being the god of luck, [[Noble_Oraiste]])\n\n[[Alacramo]] researched ways of reviving a lost soul but he eventually came to the conclusion that the only way he was gonna end up being able to revive them was by sacrificing himself to the world. A matter of equivelent exchange, causing him to build an alter for the sacrifice.","id":"c0180f96a7d6a62b","x":-620,"y":-343,"width":400,"height":386,"color":"1"},
+		{"id":"6d05df5c2b2d82bc","type":"text","text":"[[ProfMonkey07]] retires to his 'anarchist utopia' and dies at the old age of 34 when someone burns it to the ground while he was asleep","x":-180,"y":-343,"width":360,"height":123},
+		{"id":"ff3d8190211f649f","x":-180,"y":-180,"width":360,"height":160,"color":"#0f3701","type":"text","text":"For [[DarthWaffle]]'s first target, he picks [[The_Unbeliever_]]. he didn't last an hour after picking."}
+	],
+	"edges":[]
+}

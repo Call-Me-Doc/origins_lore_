@@ -12,7 +12,7 @@
 		{"type":"text","text":"[[TheVibeGod]] is successful in killing [[The_Unbeliever_]], earning his admiration, as well as a few favors, as the bet entailed.","id":"682ce97e3f13760b","x":90,"y":555,"width":250,"height":152,"color":"#000000"},
 		{"type":"text","text":"[[The_Unbeliever_]], not questioning the slightly weird wording, signs it, and is given 2 items, a misspelled mushroom titled \"Unb's Massive Cock\", and then, an end rod, with the proper title, fufilling [[CallMeDoc_]]'s side of the contract.","id":"91255cf050b935d0","x":-940,"y":625,"width":360,"height":185,"color":"#880808"},
 		{"type":"text","text":"[[The_Unbeliever_]], in a mild fit of annoyance, mugs [[Raspberry1111]] and steals his Soul Alloy Sword, as well as adding his head to his collection","id":"8c47d3494f776a05","x":-940,"y":370,"width":300,"height":160,"color":"#880808"},
-		{"id":"d87ca83434b6b436","x":-915,"y":205,"width":250,"height":135,"color":"#990000","type":"text","text":"[[The_Unbeliever_]]: If [[Raspberry1111]] wants his sword back, he can duel me for it."}
+		{"id":"d87ca83434b6b436","type":"text","text":"[[The_Unbeliever_]]: If [[Raspberry1111]] wants his sword back, he can duel me for it.","x":-915,"y":205,"width":250,"height":135,"color":"#990000"}
 	],
 	"edges":[
 		{"id":"283aa81ba90292db","fromNode":"23e9234c8ac65604","fromSide":"right","toNode":"a609ff17fbf2e0d1","toSide":"top"},

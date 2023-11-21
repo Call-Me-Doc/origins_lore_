@@ -1,4 +1,4 @@
-The overall neutral area reffered to as [[subject 54]]. 
+The overall neutral area reffered to as [[Subject 54]]. 
 
 Members:
 	[[CallMeDoc_]]
