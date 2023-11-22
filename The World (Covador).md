@@ -1,0 +1,1 @@
+Covador is a continent southeast of [[The World (Cordova) |Cordova]]. [[Noble]], [[Unbi]], and [[Vibe God]] arrived 

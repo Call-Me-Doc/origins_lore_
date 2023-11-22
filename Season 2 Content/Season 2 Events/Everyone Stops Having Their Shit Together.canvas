@@ -4,7 +4,7 @@
 		{"id":"9fb52b88c85dfc52","type":"text","text":"[[ProfMonkey07]] while taking a break from a hike, a sheep whispered in his ear and told him to found an 'anarchist utopia.'\nBecause of this, he abandoned [[Season 2 Content/Factions/Tree Shrine|Tree Shrine]] and thus [[DarthWaffle]], to found [[TNTFAI]].","x":-720,"y":-40,"width":390,"height":180,"color":"#ff0095"},
 		{"id":"309c2870e10523a2","type":"text","text":"Due to his only follower leaving him, [[DarthWaffle]] had a crisis of what a god really is, and thus goes on a crusade to kill everyone and anyone who claims to be a god.","x":-775,"y":240,"width":295,"height":180,"color":"#0f3701"},
 		{"id":"d62b23cf5d63d5c1","type":"text","text":"[[DarthWaffle]]'s letter to anyone who dares to call themselves gods","x":-1240,"y":485,"width":400,"height":75},
-		{"id":"876b6ebaae432d80","type":"file","file":"Other/Darthwaffle's Letter.png","x":-1240,"y":260,"width":400,"height":225,"color":"#142f0a"}
+		{"id":"876b6ebaae432d80","type":"file","file":"Season 2 Content/Darthwaffle's Letter.png","x":-1240,"y":260,"width":400,"height":225,"color":"#142f0a"}
 	],
 	"edges":[
 		{"id":"749cceb93c51b7ba","fromNode":"7f74200d656c37ed","fromSide":"bottom","toNode":"9fb52b88c85dfc52","toSide":"left","color":"#bc0972"},

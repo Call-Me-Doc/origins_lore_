@@ -1,4 +1,3 @@
-# Season 2
 Factions:
  // [[Church Of The CockBlock]]
  // [[Season 2 Content/Factions/Tree Shrine|Tree Shrine]]
@@ -76,20 +75,6 @@ Npcs:
  // [[The Barrel Admirer]]?
  // [[Nugget_Lord]]
  
---- 
-# Season 3
-## Players:
-- Doc
-- 
-
-## Events:
-- Server Start
-- 
-
-## Locations:
-- Spawn
-- 
-
 --- 
 # Fun Facts:
 - It is mandatory to go through sword training by the time you're 16 in Cordova.

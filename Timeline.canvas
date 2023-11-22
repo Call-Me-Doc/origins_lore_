@@ -13,9 +13,12 @@
 		{"type":"file","file":"Season 2 Content/Season 2 Events/The Peggening..canvas","id":"9139c9030c807798","x":-1242,"y":248,"width":525,"height":305},
 		{"type":"file","file":"Season 2 Content/Season 2 Events/Divorce.canvas","id":"298e7cc9e270c6ee","x":-360,"y":-381,"width":400,"height":181},
 		{"type":"file","file":"Season 2 Content/Season 2 Events/The Murder of The_Unbeliver.canvas","id":"d65ceb45888ff8c6","x":200,"y":-290,"width":560,"height":288},
-		{"type":"file","file":"Season 2 Content/Season 2 Events/Everyone Stops Having Their Shit Together.canvas","id":"1b0b55bcd723dd75","x":1040,"y":-200,"width":400,"height":400},
-		{"id":"852a593c58e041ce","x":1640,"y":-30,"width":250,"height":60,"type":"text","text":"Season 2 Ends"},
-		{"type":"file","file":"Season 2 Content/Season 2 Events/Season 2 Epilogue.canvas","id":"619a17e8d10aa367","x":2080,"y":-200,"width":400,"height":400}
+		{"id":"852a593c58e041ce","type":"text","text":"Season 2 Ends","x":1560,"y":-30,"width":250,"height":60},
+		{"type":"file","file":"Season 2 Content/Season 2 Events/Season 2 Epilogue.canvas","id":"619a17e8d10aa367","x":1900,"y":-200,"width":400,"height":400},
+		{"type":"file","file":"Season 2 Content/Season 2 Events/Everyone Stops Having Their Shit Together.canvas","id":"1b0b55bcd723dd75","x":980,"y":-200,"width":400,"height":400},
+		{"id":"a13ba272cd2d4ef7","type":"text","text":"[[Noble]], [[Unbi]], and [[Vibe God]] arrive to the continent of Covador together, after forming a hidden faction back in Cordova","x":2460,"y":0,"width":380,"height":100},
+		{"id":"0691361ac37085d9","x":2460,"y":-100,"width":380,"height":60,"type":"text","text":"The citizens of Covador are born"},
+		{"id":"c6db9a38533c8bb7","x":2980,"y":-40,"width":250,"height":60,"type":"text","text":"Season 3 Begins"}
 	],
 	"edges":[
 		{"id":"14012a99d9e9e535","fromNode":"352cc0f47ef08bee","fromSide":"right","toNode":"1a60311481901009","toSide":"top"},
@@ -34,6 +37,10 @@
 		{"id":"280530cb7d9e324d","fromNode":"d65ceb45888ff8c6","fromSide":"right","toNode":"1b0b55bcd723dd75","toSide":"left"},
 		{"id":"fadf888aea990a10","fromNode":"12b3dfbbef2be4e1","fromSide":"right","toNode":"1b0b55bcd723dd75","toSide":"left"},
 		{"id":"27181222a0355a2c","fromNode":"1b0b55bcd723dd75","fromSide":"right","toNode":"852a593c58e041ce","toSide":"left"},
-		{"id":"b470127360efc871","fromNode":"852a593c58e041ce","fromSide":"right","toNode":"619a17e8d10aa367","toSide":"left"}
+		{"id":"b470127360efc871","fromNode":"852a593c58e041ce","fromSide":"right","toNode":"619a17e8d10aa367","toSide":"left"},
+		{"id":"6cd8f4f487593ab2","fromNode":"619a17e8d10aa367","fromSide":"right","toNode":"a13ba272cd2d4ef7","toSide":"left"},
+		{"id":"21fe6ca2a4684f30","fromNode":"619a17e8d10aa367","fromSide":"right","toNode":"0691361ac37085d9","toSide":"left"},
+		{"id":"a26db9c411300dd5","fromNode":"0691361ac37085d9","fromSide":"right","toNode":"c6db9a38533c8bb7","toSide":"left"},
+		{"id":"5d6cad0731c537ff","fromNode":"a13ba272cd2d4ef7","fromSide":"right","toNode":"c6db9a38533c8bb7","toSide":"left"}
 	]
 }
