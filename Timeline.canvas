@@ -16,7 +16,7 @@
 		{"id":"852a593c58e041ce","type":"text","text":"Season 2 Ends","x":1560,"y":-30,"width":250,"height":60},
 		{"type":"file","file":"Season 2 Content/Season 2 Events/Season 2 Epilogue.canvas","id":"619a17e8d10aa367","x":1900,"y":-200,"width":400,"height":400},
 		{"type":"file","file":"Season 2 Content/Season 2 Events/Everyone Stops Having Their Shit Together.canvas","id":"1b0b55bcd723dd75","x":980,"y":-200,"width":400,"height":400},
-		{"id":"a13ba272cd2d4ef7","type":"text","text":"[[Noble]], [[Unbi]], and [[Vibe God]] arrive to the continent of Covador together, after forming a hidden faction back in Cordova","x":2460,"y":0,"width":380,"height":100},
+		{"id":"a13ba272cd2d4ef7","type":"text","text":"[[Noble]], [[Unbi]], and [[Ari]] arrive to the continent of Covador together, after forming a hidden faction back in Cordova","x":2460,"y":0,"width":380,"height":100},
 		{"id":"0691361ac37085d9","x":2460,"y":-100,"width":380,"height":60,"type":"text","text":"The citizens of Covador are born"},
 		{"id":"c6db9a38533c8bb7","x":2980,"y":-40,"width":250,"height":60,"type":"text","text":"Season 3 Begins"}
 	],

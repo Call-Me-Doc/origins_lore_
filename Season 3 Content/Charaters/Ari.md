@@ -1,9 +1,10 @@
+played by VibeGod
 Hex Code: #000000
 Pronouns: Any
 
 ## Aliases:
  - Bee
- - Ari
+ - Vibe God
  - God
  
 ## Origin: 

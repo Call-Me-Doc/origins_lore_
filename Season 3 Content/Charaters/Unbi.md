@@ -1,3 +1,4 @@
+played by Unbi
 Hex Code: \#880808
 Pronouns: Any
 
@@ -22,7 +23,7 @@ Pronouns: Any
 - Has fucked a crab. You get bored after a few thousand years.
  
 ## Relationships:
-- has a found family style bond with [[Noble]] and [[Vibe God]], and everyone assumes it is an actual family.
+- has a found family style bond with [[Noble]] and [[Ari]], and everyone assumes it is an actual family.
 
 ## Quotes:
 - 

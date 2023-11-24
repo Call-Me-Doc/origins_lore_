@@ -1,3 +1,4 @@
+played by shadow
 Hex Code: \#f59b00
 Pronouns: Any
 
@@ -13,7 +14,7 @@ Pronouns: Any
 - 
  
 ## Relationships:
-- has a found family style bond with [[Unbi]] and [[Vibe God]], and everyone assumes it is an actual family.
+- has a found family style bond with [[Unbi]] and [[Ari]], and everyone assumes it is an actual family.
 
 ## Quotes:
 - 
