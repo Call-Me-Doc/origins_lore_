@@ -17,8 +17,14 @@
 		{"type":"file","file":"Season 2 Content/Season 2 Events/Season 2 Epilogue.canvas","id":"619a17e8d10aa367","x":1900,"y":-200,"width":400,"height":400},
 		{"type":"file","file":"Season 2 Content/Season 2 Events/Everyone Stops Having Their Shit Together.canvas","id":"1b0b55bcd723dd75","x":980,"y":-200,"width":400,"height":400},
 		{"id":"a13ba272cd2d4ef7","type":"text","text":"[[Noble]], [[Unbi]], and [[Ari]] arrive to the continent of Covador together, after forming a hidden faction back in Cordova","x":2460,"y":0,"width":380,"height":100},
-		{"id":"0691361ac37085d9","x":2460,"y":-100,"width":380,"height":60,"type":"text","text":"The citizens of Covador are born"},
-		{"id":"c6db9a38533c8bb7","x":2980,"y":-40,"width":250,"height":60,"type":"text","text":"Season 3 Begins"}
+		{"id":"0691361ac37085d9","type":"text","text":"The citizens of Covador are born","x":2460,"y":-100,"width":380,"height":60},
+		{"id":"c6db9a38533c8bb7","type":"text","text":"Season 3 Begins","x":2980,"y":-40,"width":250,"height":60},
+		{"id":"48e1642640d55ce4","x":3380,"y":-200,"width":260,"height":120,"type":"text","text":"[[Doc]] begins setting up camps around the world, after being left without a shelter one too many times"},
+		{"id":"9e27e385d1df8809","x":3400,"y":20,"width":260,"height":100,"type":"text","text":"[[Locations#Firelink Shrine |Firelink Shrine]] is established by [[Darth Waffle]]"},
+		{"id":"1812ccdef5564fef","x":4480,"y":-100,"width":300,"height":100,"type":"text","text":"The end suddenly alters itself a few hours later, causing a want for investigation"},
+		{"id":"ef1024f386b0d748","x":3740,"y":-130,"width":250,"height":100,"type":"text","text":"[[Doc]], [[profmonkey]], and a few others defeat the Ender Dragon"},
+		{"id":"1723ee1a70fb4c80","x":4100,"y":-150,"width":280,"height":240,"type":"text","text":"[[Ari]] obtains the egg and holds it from three primary groups, those who want to turn the egg into a cool backpack, those who want to turn it into a display piece, and those who want to hide it from the other two"},
+		{"id":"a1072b2368ee55c7","x":4100,"y":160,"width":280,"height":120,"type":"text","text":"[[profmonkey]] begins to claim all of [[Locations#Firelink Shrine |Firelink Shrine]] for himself, calling anyone who settles nearby 'capitalists'"}
 	],
 	"edges":[
 		{"id":"14012a99d9e9e535","fromNode":"352cc0f47ef08bee","fromSide":"right","toNode":"1a60311481901009","toSide":"top"},
@@ -41,6 +47,13 @@
 		{"id":"6cd8f4f487593ab2","fromNode":"619a17e8d10aa367","fromSide":"right","toNode":"a13ba272cd2d4ef7","toSide":"left"},
 		{"id":"21fe6ca2a4684f30","fromNode":"619a17e8d10aa367","fromSide":"right","toNode":"0691361ac37085d9","toSide":"left"},
 		{"id":"a26db9c411300dd5","fromNode":"0691361ac37085d9","fromSide":"right","toNode":"c6db9a38533c8bb7","toSide":"left"},
-		{"id":"5d6cad0731c537ff","fromNode":"a13ba272cd2d4ef7","fromSide":"right","toNode":"c6db9a38533c8bb7","toSide":"left"}
+		{"id":"5d6cad0731c537ff","fromNode":"a13ba272cd2d4ef7","fromSide":"right","toNode":"c6db9a38533c8bb7","toSide":"left"},
+		{"id":"94b5f3075c9c5865","fromNode":"c6db9a38533c8bb7","fromSide":"right","toNode":"48e1642640d55ce4","toSide":"left"},
+		{"id":"39d5c3746de3e661","fromNode":"c6db9a38533c8bb7","fromSide":"right","toNode":"9e27e385d1df8809","toSide":"left"},
+		{"id":"de4d2e55592e7384","fromNode":"48e1642640d55ce4","fromSide":"right","toNode":"ef1024f386b0d748","toSide":"left"},
+		{"id":"b9bbd883a43f5e95","fromNode":"9e27e385d1df8809","fromSide":"right","toNode":"ef1024f386b0d748","toSide":"left"},
+		{"id":"72723ad40ed14d56","fromNode":"ef1024f386b0d748","fromSide":"right","toNode":"1723ee1a70fb4c80","toSide":"left"},
+		{"id":"f2b8272f51222013","fromNode":"1723ee1a70fb4c80","fromSide":"right","toNode":"1812ccdef5564fef","toSide":"left"},
+		{"id":"ff5c00bd06efbe1d","fromNode":"ef1024f386b0d748","fromSide":"bottom","toNode":"a1072b2368ee55c7","toSide":"left"}
 	]
 }

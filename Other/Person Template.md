@@ -6,7 +6,8 @@ Pronouns: (ex: He / Him)
  - hit enter to keep going
  - hit enter twice to stop the collapsible list
  
-Origin: put the person's origin here, i.e. Phantom
+## Origin: 
+put the person's origin here, i.e. Phantom
 
 ## Traits:
 - notes for a user, i.e. personality traits, bits of lore they were in, don't really matter, just put it in here!
