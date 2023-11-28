@@ -1,3 +1,4 @@
+
 I decided to start keeping a journal, just in case i end up dying. gods thats a way to start something, hmm? well, if you find this im either dead or i lost this, i hope you can use intuition as to which one is the correct answer.
 
 --- 
@@ -24,3 +25,9 @@ was exploring south in the end, and came across this broken portal thingy, and i
 
 --- 
 
+i think the end swapped places with another reality's end. it sounds crazy, coming from a crazy person who talks to endermen because nobody want to go end exploring with me. not helping doc. anyway, heres my reasons:
+- everyone felt the sudden shift, and a good chunk of us didnt even bother to check if something happened to the nether
+- new iron adjacent material, but it needs an entirely different recipe to make tools (still works fine on anything that isnt tools???)
+- a small amount of endermen look depressed, and endermen *flooded* the other dimensions for an hour or two after the shift. they're obviously social creatures, so maybe their families were in the end and they weren't?
+
+---
