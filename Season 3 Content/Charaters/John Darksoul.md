@@ -1,4 +1,4 @@
-Hex Code: 
+Hex Code: \#0F3701
 Pronouns: He / Him
 
 ## Aliases:

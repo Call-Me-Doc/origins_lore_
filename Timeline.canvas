@@ -20,11 +20,12 @@
 		{"id":"c6db9a38533c8bb7","type":"text","text":"Season 3 Begins","x":2980,"y":-40,"width":250,"height":60},
 		{"id":"48e1642640d55ce4","type":"text","text":"[[Doc]] begins setting up camps around the world, after being left without a shelter one too many times","x":3380,"y":-200,"width":260,"height":120},
 		{"id":"9e27e385d1df8809","type":"text","text":"[[Locations#Firelink Shrine |Firelink Shrine]] is established by [[Darth Waffle]]","x":3400,"y":20,"width":260,"height":100},
-		{"id":"1812ccdef5564fef","type":"text","text":"The end suddenly alters itself a few hours later, causing a want for investigation","x":4480,"y":-100,"width":300,"height":100},
-		{"id":"ef1024f386b0d748","type":"text","text":"[[Doc]], [[profmonkey]], and a few others defeat the Ender Dragon","x":3740,"y":-130,"width":250,"height":100},
-		{"id":"1723ee1a70fb4c80","type":"text","text":"[[Ari]] obtains the egg and holds it from three primary groups, those who want to turn the egg into a cool backpack, those who want to turn it into a display piece, and those who want to hide it from the other two","x":4100,"y":-150,"width":280,"height":240},
-		{"id":"a1072b2368ee55c7","type":"text","text":"[[profmonkey]] begins to claim all of [[Locations#Firelink Shrine |Firelink Shrine]] for himself, calling anyone who settles nearby 'capitalists'","x":4100,"y":160,"width":280,"height":120},
-		{"type":"file","file":"Season 2 Content/Season 2 Events/The Holy War.canvas","id":"12b3dfbbef2be4e1","x":40,"y":229,"width":570,"height":400}
+		{"type":"file","file":"Season 2 Content/Season 2 Events/The Holy War.canvas","id":"12b3dfbbef2be4e1","x":40,"y":229,"width":570,"height":400},
+		{"id":"ef1024f386b0d748","type":"text","text":"[[Doc]], [[profmonkey]], and a few others defeat the Ender Dragon","x":3865,"y":-130,"width":250,"height":100},
+		{"id":"1723ee1a70fb4c80","type":"text","text":"[[Ari]] obtains the egg and holds it from three primary groups, those who want to turn the egg into a cool backpack, those who want to turn it into a display piece, and those who want to hide it from the other two","x":4225,"y":-150,"width":280,"height":240},
+		{"id":"a1072b2368ee55c7","type":"text","text":"[[profmonkey]] begins to claim all of [[Locations#Firelink Shrine |Firelink Shrine]] for himself, calling anyone who settles nearby 'colonizers'","x":4225,"y":160,"width":280,"height":120},
+		{"id":"1812ccdef5564fef","type":"text","text":"The end suddenly alters itself a few hours later, causing a want for investigation","x":4605,"y":-100,"width":300,"height":100},
+		{"id":"abb22e49ddf1e5e8","x":3740,"y":-280,"width":250,"height":100,"type":"text","text":"[[Doc]] starts keeping a [[Doc's Journal |journal]]"}
 	],
 	"edges":[
 		{"id":"14012a99d9e9e535","fromNode":"352cc0f47ef08bee","fromSide":"right","toNode":"1a60311481901009","toSide":"top"},
@@ -54,6 +55,7 @@
 		{"id":"b9bbd883a43f5e95","fromNode":"9e27e385d1df8809","fromSide":"right","toNode":"ef1024f386b0d748","toSide":"left"},
 		{"id":"72723ad40ed14d56","fromNode":"ef1024f386b0d748","fromSide":"right","toNode":"1723ee1a70fb4c80","toSide":"left"},
 		{"id":"f2b8272f51222013","fromNode":"1723ee1a70fb4c80","fromSide":"right","toNode":"1812ccdef5564fef","toSide":"left"},
-		{"id":"ff5c00bd06efbe1d","fromNode":"ef1024f386b0d748","fromSide":"bottom","toNode":"a1072b2368ee55c7","toSide":"left"}
+		{"id":"ff5c00bd06efbe1d","fromNode":"ef1024f386b0d748","fromSide":"bottom","toNode":"a1072b2368ee55c7","toSide":"left"},
+		{"id":"ce62769d63ea59e3","fromNode":"48e1642640d55ce4","fromSide":"right","toNode":"abb22e49ddf1e5e8","toSide":"left"}
 	]
 }
