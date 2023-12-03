@@ -31,3 +31,20 @@ i think the end swapped places with another reality's end. it sounds crazy, comi
 - a small amount of endermen look depressed, and endermen *flooded* the other dimensions for an hour or two after the shift. they're obviously social creatures, so maybe their families were in the end and they weren't?
 
 ---
+
+holy shit. 
+
+there's a whole ass village. what the fuck.
+
+---
+
+there's another. there's a whole bunch of them over here, what the hell happened here. 
+these have to have been populated, the ground here is *literally* dust, but there's no dust on anything here. none. 
+
+---
+
+WHAT DID THEY DO
+i made the waystone public, so some people could maybe figure out what happened, but someone TORE THE BUILDINGS DOWN and they're now setting up a fucking SHOPPING CENTER.
+
+---
+
