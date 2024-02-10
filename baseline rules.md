@@ -1,4 +1,4 @@
-these are not server rules, but basic rules of how the canon works, on a more fundimental level and opens up extra rp things
+these are not server rules, but basic rules of how the canon works, on a more fundamental level and opens up extra rp things
 ## Bets
 - If both parties agree to it when making a bet a magic can be invoked to bind one's soul into an object, such as their own head (heads being the most common example as they are generated upon death) or a token, as part of the bet. Henceforth if the opposing party comes into possession of said object they will own said soul, and given that the soul is the root of will and conscience this means they would own the person who's soul it is.
 ## Builders
@@ -17,3 +17,24 @@ there is not one specific dragon, but a *lot* of dragons.
 	- because you effectively remove a portion of the dragon when it dies, eventually there isn't enough dragon for the end crystals to put back together, this takes STUPID long, however.
 
 - dragon eggs take several centuries to hatch, and can theoretically be born in the overworld, just every time one *has* begun to hatch while the egg was in the overworld, everyone lost their shit and returned it to the end when it hatched.
+
+## True Deaths
+Builders are able to respawn an indefinite amount of times, this is known to just about everyone, and thus is not surprising to see builders doing "really stupid shit" that would end in anyone else dying. 
+
+Death means nothing to builders, be it poison, stabbing, great heights, or falling into the void itself. But, when a Builder's body begins to fail them all by itself, nothing can save them from death's cold grasp.
+
+However, a soul with the ability to return to it's body time and time again won't just vanish as easily as the flesh. Often, a soul with unfinished business (be it love, the want to finish a project, or simply not ready for death just quite yet) will enter purgatory. 
+
+## Purgatory
+- ghosts and shit live here
+- have to put in physical effort to appear in the real world
+- can see the living, cant interact with them
+
+Purgatory is the realm of souls who have not given up on life quite just yet.
+Despite most souls entering it's doors as ghosts, (known as 'shadows' when they return to the realm of the living) time spent without anything binding them to themselves can cause several issues with them, such as:
+- personality decay
+- loss of empathy
+- obsession over their unfinished business
+- loss of colored vision
+- loss of sense of self
+- surprise at the ability to interact with the world
