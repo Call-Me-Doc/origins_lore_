@@ -18,4 +18,5 @@ Vulpine
 - Looks eerily similar to a child of [[Noble]], but has no actual connections to them.
 
 ## Quotes:
+- "If we don't have any written accounts from a population, did they ever really exist?"
 - 
