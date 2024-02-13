@@ -24,10 +24,11 @@
 		{"id":"ef1024f386b0d748","type":"text","text":"[[Doc]], [[profmonkey]], and a few others defeat the Ender Dragon","x":3865,"y":-130,"width":250,"height":100},
 		{"id":"abb22e49ddf1e5e8","type":"text","text":"[[Doc]] starts keeping a [[Doc's Journal |journal]]","x":3740,"y":-280,"width":250,"height":100},
 		{"id":"1723ee1a70fb4c80","type":"text","text":"[[Ari]] obtains the egg and holds it from three primary groups, those who want to turn the egg into a cool backpack, those who want to turn it into a display piece, and those who want to hide it from the other two","x":4200,"y":-155,"width":280,"height":240},
-		{"id":"8bc8d8c048ab1424","x":4985,"y":-130,"width":280,"height":149,"type":"text","text":"Most everyone floods in and begin to explore the 'new' end, but end up getting bored and stop openly exploring, except [[Doc]]"},
+		{"id":"8bc8d8c048ab1424","type":"text","text":"Most everyone floods in and begin to explore the 'new' end, but end up getting bored and stop openly exploring, except [[Doc]]","x":4985,"y":-130,"width":280,"height":149},
 		{"id":"1812ccdef5564fef","type":"text","text":"The end suddenly alters itself a few hours later, causing a want for investigation","x":4580,"y":-85,"width":300,"height":100},
 		{"id":"a1072b2368ee55c7","type":"text","text":"[[profmonkey]] begins to claim all of [[Locations#Firelink Shrine |Firelink Shrine]] for himself, calling anyone who settles nearby 'colonizers'","x":4115,"y":100,"width":280,"height":120},
-		{"id":"ac0efd3f906177d7","x":4810,"y":40,"width":250,"height":120,"type":"text","text":"combined with a want for more privacy, [[Doc]] moves out."}
+		{"id":"ac0efd3f906177d7","type":"text","text":"combined with a want for more privacy, [[Doc]] moves out.","x":4810,"y":40,"width":250,"height":120},
+		{"id":"c93e8dff3f7a66e3","type":"file","file":"Season 3 Content/Season 3 Events/The Echoes Arrive.canvas","x":5420,"y":15,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"14012a99d9e9e535","fromNode":"352cc0f47ef08bee","fromSide":"right","toNode":"1a60311481901009","toSide":"top"},
@@ -61,6 +62,7 @@
 		{"id":"ce62769d63ea59e3","fromNode":"48e1642640d55ce4","fromSide":"right","toNode":"abb22e49ddf1e5e8","toSide":"left"},
 		{"id":"66910f2642af6acd","fromNode":"1812ccdef5564fef","fromSide":"right","toNode":"8bc8d8c048ab1424","toSide":"left"},
 		{"id":"2fe1f44378fa5b50","fromNode":"a1072b2368ee55c7","fromSide":"right","toNode":"ac0efd3f906177d7","toSide":"left"},
-		{"id":"ab0450b54b65dc8d","fromNode":"ac0efd3f906177d7","fromSide":"right","toNode":"8bc8d8c048ab1424","toSide":"bottom"}
+		{"id":"ab0450b54b65dc8d","fromNode":"ac0efd3f906177d7","fromSide":"right","toNode":"8bc8d8c048ab1424","toSide":"bottom"},
+		{"id":"cbcd168ad28d73b3","fromNode":"ac0efd3f906177d7","fromSide":"right","toNode":"c93e8dff3f7a66e3","toSide":"left"}
 	]
 }
