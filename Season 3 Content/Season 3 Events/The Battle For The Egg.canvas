@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"fab23d900e047a7d","x":80,"y":-280,"width":250,"height":160,"type":"text","text":"[[Doc]] informs [[Ari]] of the leaked information due to feeling bad, as a general heads up to get defenders together"},
-		{"id":"f9132eaeb7cfc87e","x":60,"y":40,"width":250,"height":280,"type":"text","text":"[[Ari]] gathers:\n- [[Unbi]]\n- [[Noble]]\n- "},
-		{"id":"2992c4ed5ecd72bc","x":-400,"y":-340,"width":280,"height":220,"type":"text","text":"[[Doc]] comes across [[Ari]]'s bunker for holding the egg, and discloses this information to [[John Darksoul]] for payment, and offers to take him to the bunker themselves to ensure no miscommunication."},
-		{"id":"4d36b916fb42c0ef","x":-320,"y":40,"width":250,"height":280,"type":"text","text":"[[John Darksoul]] gathers:\n- "}
+		{"id":"fab23d900e047a7d","type":"text","text":"[[Doc]] informs [[Ari]] of the leaked information due to feeling bad, as a general heads up to get defenders together","x":80,"y":-280,"width":250,"height":160},
+		{"id":"f9132eaeb7cfc87e","type":"text","text":"[[Ari]] gathers:\n- [[Unbi]]\n- [[Noble]]\n- ","x":60,"y":40,"width":250,"height":280},
+		{"id":"2992c4ed5ecd72bc","type":"text","text":"[[Doc]] comes across [[Ari]]'s bunker for holding the egg, and discloses this information to [[John Darksoul]] for payment, and offers to take him to the bunker themselves to ensure no miscommunication.","x":-400,"y":-340,"width":280,"height":220},
+		{"id":"4d36b916fb42c0ef","type":"text","text":"[[John Darksoul]] gathers:\n- [[]]","x":-320,"y":40,"width":250,"height":280}
 	],
 	"edges":[
 		{"id":"cdec3a43d556de7e","fromNode":"2992c4ed5ecd72bc","fromSide":"right","toNode":"fab23d900e047a7d","toSide":"left"},
