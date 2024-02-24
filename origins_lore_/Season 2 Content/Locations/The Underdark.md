@@ -1,0 +1,1 @@
+A chamber under [[Cock Blocked Church]] made by [[Alacramo]] so that he could sacrifice himself to revive [[Noble_Oraiste]]. (For more information see [[Season 2 Epilogue.canvas]] in [[Timeline.canvas]])

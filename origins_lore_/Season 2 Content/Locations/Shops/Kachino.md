@@ -1,0 +1,1 @@
+A failed Casino that [[Noble_Oraiste]] asked [[Raspberry1111]]'s help in building. Unfortunately, it still hasn't been finished even though they started extremely close to the start of the server.

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"14a2ff3c917ef4cb","type":"text","text":"","x":-1062,"y":134,"width":250,"height":60},
+		{"id":"0e5e8d8f1933d364","type":"text","text":"","x":-564,"y":-92,"width":250,"height":60},
+		{"type":"text","text":"With the introduction of a new threat, the members of [[StoneWard]], everyone banded together to kick the shit out of them, sans [[CallMeDoc_]] and [[Subject 54]]. this didnt go anywhere, as the members of [[StoneWard]] pretty much just built some houses, and then fucked off the continent when a boat passed through. However, nobody noticed this, and the preparations everyone made fell through.","id":"7f74200d656c37ed","x":-1160,"y":-360,"width":490,"height":220,"color":"#ff75fa"},
+		{"id":"9fb52b88c85dfc52","type":"text","text":"[[ProfMonkey07]] while taking a break from a hike, a sheep whispered in his ear and told him to found an 'anarchist utopia.'\nBecause of this, he abandoned [[Season 2 Content/Factions/Tree Shrine|Tree Shrine]] and thus [[DarthWaffle]], to found [[TNTFAI]].","x":-720,"y":-40,"width":390,"height":180,"color":"#ff0095"},
+		{"id":"309c2870e10523a2","type":"text","text":"Due to his only follower leaving him, [[DarthWaffle]] had a crisis of what a god really is, and thus goes on a crusade to kill everyone and anyone who claims to be a god.","x":-775,"y":240,"width":295,"height":180,"color":"#0f3701"},
+		{"id":"d62b23cf5d63d5c1","type":"text","text":"[[DarthWaffle]]'s letter to anyone who dares to call themselves gods","x":-1240,"y":485,"width":400,"height":75},
+		{"id":"876b6ebaae432d80","type":"file","file":"Season 2 Content/Darthwaffle's Letter.png","x":-1240,"y":260,"width":400,"height":225,"color":"#142f0a"}
+	],
+	"edges":[
+		{"id":"749cceb93c51b7ba","fromNode":"7f74200d656c37ed","fromSide":"bottom","toNode":"9fb52b88c85dfc52","toSide":"left","color":"#bc0972"},
+		{"id":"dd97273b61a1a7b9","fromNode":"9fb52b88c85dfc52","fromSide":"bottom","toNode":"309c2870e10523a2","toSide":"top","color":"#142f0a"}
+	]
+}

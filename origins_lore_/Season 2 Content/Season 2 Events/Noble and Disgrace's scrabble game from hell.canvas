@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"type":"text","text":"[[Disgrace]] decided that they would play a 3 out of 5 game of scrabble.","id":"00ce7586090bcde2","x":-120,"y":-220,"width":250,"height":88},
+		{"type":"text","text":"[[Noble_Oraiste]] won the next 3 games of scrabble","id":"228b6ffb429a3f58","x":560,"y":48,"width":250,"height":60,"color":"#f59b00"},
+		{"type":"text","text":"[[Noble_Oraiste]] proposes a magic induced bet to [[Disgrace]], upon which, whoever wins got the other's soul.","id":"8af0ed2328ac33d2","x":-620,"y":-70,"width":250,"height":148},
+		{"type":"text","text":"A transcription of the exchange that followed:\n\n[[Disgrace]]: (╯°□°)╯︵ ┻━┻\n\n[[Disgrace]]: I hope you fucking die\n\n[[Noble_Oraiste]]: I'm already dead though.","id":"ce596e696b07e6c2","x":220,"y":140,"width":250,"height":280},
+		{"type":"text","text":"Note: [[Noble_Oraiste]] let [[Disgrace]] pick the game","id":"92aff38dadacf1d3","x":-600,"y":180,"width":250,"height":71},
+		{"type":"text","text":"[[Disgrace]] accepts the bet\n","id":"206b7fd0743f3bb5","x":-260,"y":-12,"width":250,"height":60},
+		{"type":"text","text":"The first game ended up not counting because one of [[Noble_Oraiste]]'s dogs jumped on the gameboard and ruined the game\n","id":"9eb43658272b7c88","x":240,"y":-176,"width":250,"height":150,"color":"#f59b00"}
+	],
+	"edges":[
+		{"id":"7ce5773ce42c249c","fromNode":"8af0ed2328ac33d2","fromSide":"bottom","toNode":"92aff38dadacf1d3","toSide":"top"},
+		{"id":"440516bc454af8b4","fromNode":"00ce7586090bcde2","fromSide":"right","toNode":"9eb43658272b7c88","toSide":"left"},
+		{"id":"fd436a24ea37ec1d","fromNode":"9eb43658272b7c88","fromSide":"right","toNode":"228b6ffb429a3f58","toSide":"left"},
+		{"id":"409c169fc4754c70","fromNode":"8af0ed2328ac33d2","fromSide":"right","toNode":"206b7fd0743f3bb5","toSide":"left"},
+		{"id":"e2b90799160aa012","fromNode":"206b7fd0743f3bb5","fromSide":"top","toNode":"00ce7586090bcde2","toSide":"bottom"},
+		{"id":"6b2695b166cf03a7","fromNode":"228b6ffb429a3f58","fromSide":"left","toNode":"ce596e696b07e6c2","toSide":"top"}
+	]
+}
