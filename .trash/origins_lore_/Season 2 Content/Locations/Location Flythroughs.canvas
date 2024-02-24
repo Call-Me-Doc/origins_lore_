@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"group","id":"38dae52ebe5bf7c0","x":-880,"y":1020,"width":1580,"height":440,"color":"#470000","label":"Old Showcases"},
+		{"type":"link","url":"https://youtu.be/AwBCWQHAx5o","id":"822e8ea50b4bc8fb","x":200,"y":-300,"width":640,"height":360,"color":"1"},
+		{"type":"text","text":"The Sacrifical Chamber created by [[Alacramo]], used to ressurect [[Noble_Oraiste]], more details seen at [[Season 2 Epilogue.canvas]]","id":"7239d1f93f7b9f90","x":200,"y":60,"width":640,"height":80,"color":"1"},
+		{"type":"link","url":"https://youtu.be/lMQH-F2GPwg","id":"9326f0861368aca2","x":-640,"y":-300,"width":640,"height":360,"color":"5"},
+		{"type":"text","text":"The Courthouse and it's office, located in [[Subject 54]], intended to be used for any legal related buisness. ","id":"5e7c21bb8d3aa29f","x":-640,"y":60,"width":640,"height":80,"color":"5"},
+		{"type":"link","url":"https://youtu.be/6karIPxZ3iA","id":"0a678723f57d809a","x":1000,"y":-300,"width":640,"height":360,"color":"1"},
+		{"type":"text","text":"Cafe Leblanc, [[Subject 54]]'s not-so-hidden cafe/resturant. this was made on 4-18-23, and may be updated in the future, if any major changes happen.","id":"45140c66f95d3134","x":1000,"y":60,"width":640,"height":80,"color":"1"},
+		{"type":"text","text":"These are videos created by CallMeDoc to show off some locations, becuase sometimes text just doesnt cut it","id":"0e70e4c1cfc0dfb8","x":-100,"y":-580,"width":380,"height":100,"color":"4"},
+		{"type":"link","url":"https://youtu.be/GIUQRVvRLjM","id":"0be8da0497ee96ea","x":-860,"y":1040,"width":520,"height":300,"color":"1"},
+		{"type":"link","url":"https://youtu.be/vADwM9oPik8","id":"4200e738c143f56b","x":-340,"y":1040,"width":520,"height":300,"color":"5"},
+		{"type":"text","text":"Old Showcases before Doc got a grasp on ReplayMod. only here for archival purposes tbh","id":"62511f18c3a5a94a","x":-690,"y":1340,"width":700,"height":80},
+		{"id":"0dde03aa860bfbd0","x":240,"y":1060,"width":420,"height":320,"type":"text","text":"more space for if more showcases become outdated for whatever reason"}
+	],
+	"edges":[]
+}

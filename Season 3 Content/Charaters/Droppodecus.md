@@ -1,8 +1,9 @@
-Pronouns: It.
+
+Pronoun: **He.**
 
 ## Aliases:
- - D___p__ec_s M_jo_us
- - T H E   V O I D
+ - Droppodecus Majorus
+ - The Emperor of Echos
  
 ## Origin:
 Abyssal Abomination
@@ -11,9 +12,9 @@ Abyssal Abomination
  - Driven to insanity by the death of his people centuries ago, Once was High King of the Deep Dark before it went to shit.
 - Refused to die after his body started decaying from age. From his 200 years of experimentation managed to keep himself alive though now a shadow of his formal self (Literally) 
  - Merged with a demonic spirit, stealing some of its powers.
- - Resides in the formal capital of the Deep Dark.
+ - Resides in the formal capital of the Deep Dark, Xelumemu.
 ## Relationships:
-- None right now, being a tentacle shadow monster makes social interaction hard.
+- Resurrected [[Bewilderson]] and gave him excess Arcana.
 
 ## Quotes:
  "They will know my wrath" - Droppo
