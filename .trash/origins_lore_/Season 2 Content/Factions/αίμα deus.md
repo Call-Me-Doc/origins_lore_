@@ -1,1 +1,0 @@
-A mysterious organization from the mainland, not much is currently known about it.

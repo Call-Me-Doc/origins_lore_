@@ -1,1 +1,0 @@
-A hidden base in a water cave made by [[Noble_Oraiste]]. Mostly abandoned but still used from time to time. Subject 51 used to act as [[Noble_Oraiste]]'s second home. He built [[Subject 52]] and a decent sized farm above it.

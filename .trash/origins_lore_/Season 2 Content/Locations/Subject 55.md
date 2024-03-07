@@ -1,1 +1,0 @@
-A temple/library made by [[Noble_Oraiste]], a short distance away from the main area of [[Subject 54]]

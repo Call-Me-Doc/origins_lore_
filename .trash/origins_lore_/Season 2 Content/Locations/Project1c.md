@@ -1,1 +1,0 @@
-The first ever base to be on the server. This base was located in an underground water cave that led to a major sized cave. Home to [[Raspberry1111]].

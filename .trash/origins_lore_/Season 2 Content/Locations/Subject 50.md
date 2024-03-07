@@ -1,1 +1,0 @@
-A hole in the ground that was used by [[Noble_Oraiste]] as a starting base for the first 2 weeks the server was online

@@ -1,1 +1,0 @@
-the home of [[StoneWard]], lead by [[Drifterr]].

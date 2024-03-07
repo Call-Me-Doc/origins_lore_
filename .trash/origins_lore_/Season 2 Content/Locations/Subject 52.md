@@ -1,1 +1,0 @@
-[[Noble_Oraiste]]'s third home. A log cabin, seperated but not far from other players. The interior is a little messed up. It has extremely noticably scorch marks in a multitude of areas.

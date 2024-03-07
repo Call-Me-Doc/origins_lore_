@@ -1,1 +1,0 @@
-An incredibly powerful weapon capable of bending reality to its will

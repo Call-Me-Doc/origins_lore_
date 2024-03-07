@@ -1,1 +1,0 @@
-a group in [[The World (Covador)]]
