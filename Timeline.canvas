@@ -28,8 +28,9 @@
 		{"id":"1812ccdef5564fef","type":"text","text":"The end suddenly alters itself a few hours later, causing a want for investigation","x":4600,"y":-215,"width":300,"height":100},
 		{"id":"8bc8d8c048ab1424","type":"text","text":"Most everyone floods in and begin to explore the 'new' end, but end up getting bored and stop openly exploring, except [[Doc]]","x":5005,"y":-260,"width":280,"height":149},
 		{"id":"ac0efd3f906177d7","type":"text","text":"combined with a want for more privacy, [[Doc]] moves out.","x":4830,"y":-90,"width":250,"height":120},
-		{"id":"c93e8dff3f7a66e3","type":"file","file":"Season 3 Content/Season 3 Events/The Echoes Arrive.canvas","x":5395,"y":-325,"width":400,"height":400},
-		{"id":"9724f380672e33ae","x":5395,"y":280,"width":400,"height":400,"type":"file","file":"Season 3 Content/Season 3 Events/The Battle For The Egg.canvas"}
+		{"id":"9724f380672e33ae","type":"file","file":"Season 3 Content/Season 3 Events/The Battle For The Egg.canvas","x":5395,"y":280,"width":400,"height":400},
+		{"id":"9faa5f12e92d8b34","x":5395,"y":-171,"width":295,"height":111,"type":"text","text":"Big evil-looking crack opens in the sky over Firelink Shrine"},
+		{"id":"c93e8dff3f7a66e3","type":"file","file":"Season 3 Content/Season 3 Events/The Echoes Arrive.canvas","x":5795,"y":-315,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"14012a99d9e9e535","fromNode":"352cc0f47ef08bee","fromSide":"right","toNode":"1a60311481901009","toSide":"top"},
@@ -64,7 +65,8 @@
 		{"id":"66910f2642af6acd","fromNode":"1812ccdef5564fef","fromSide":"right","toNode":"8bc8d8c048ab1424","toSide":"left"},
 		{"id":"2fe1f44378fa5b50","fromNode":"a1072b2368ee55c7","fromSide":"right","toNode":"ac0efd3f906177d7","toSide":"left"},
 		{"id":"ab0450b54b65dc8d","fromNode":"ac0efd3f906177d7","fromSide":"right","toNode":"8bc8d8c048ab1424","toSide":"bottom"},
-		{"id":"cbcd168ad28d73b3","fromNode":"ac0efd3f906177d7","fromSide":"right","toNode":"c93e8dff3f7a66e3","toSide":"left"},
-		{"id":"dc727ef15f2e9cb0","fromNode":"1723ee1a70fb4c80","fromSide":"right","toNode":"9724f380672e33ae","toSide":"left"}
+		{"id":"dc727ef15f2e9cb0","fromNode":"1723ee1a70fb4c80","fromSide":"right","toNode":"9724f380672e33ae","toSide":"left"},
+		{"id":"1400417159c80fba","fromNode":"ac0efd3f906177d7","fromSide":"right","toNode":"9faa5f12e92d8b34","toSide":"left"},
+		{"id":"8be5a737f1e1e04d","fromNode":"9faa5f12e92d8b34","fromSide":"right","toNode":"c93e8dff3f7a66e3","toSide":"left"}
 	]
 }
