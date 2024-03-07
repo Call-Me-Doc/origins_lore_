@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"f3bc5c638c3eeb62","type":"text","text":"John Darksoul's respawn shrine has been replaced with a deepslate themed pyramid. No one knows why the tear exists, or who opened it. The only clue was a lectern with an unsigned book.","x":220,"y":400,"width":290,"height":200},
+		{"id":"d0908eaf8643a4da","type":"text","text":"Praise be to the Dark Gods.\n\nFor they have torn the sky asunder.\n\nDeath to those who call themselves Gods,\n\nand death awaits those worshiping them.\n\nHeed to the Echos of the Ancients.\n\nThose who had their lives taken from the false Gods renewed.\n\nNow the Dark Gods will punish the false.\n\nThey will render judgement.\n\nThey will watch.\n\nThey will be waiting below.\n\nBelow to where the ancients fell.\n\nWhere the sins hide.\n\nWhere anger festers.\n\nWe are the Echos of The Ancients\n\nGive up your worship and continue to the correct path.\n\nOr you will face them.\n  \n\n  Praise be to \n The Dark Gods","x":680,"y":-180,"width":380,"height":800,"color":"6"},
+		{"id":"1d9654d83e871eb9","type":"text","text":"Droppodecus regaining mental fortitude travels to the ancient city of Xelumemu located in Covador","x":-1300,"y":-680,"width":250,"height":160},
+		{"id":"701ee5a0043d0f43","type":"text","text":"Marigi meets up with Droppodecus in Xelumemu","x":-1300,"y":-362,"width":250,"height":100},
+		{"id":"fd274906aa667a56","type":"text","text":"Droppodecus undergoes a ritual to halt his aging and become a Psuedogod, falls asleep for 300 years, becomes God of Darkness.","x":-1300,"y":-100,"width":250,"height":180},
+		{"id":"58369eb1f2c9cc83","type":"text","text":"Marigi seeing Droppodecus fall into a coma, decides to bail. ","x":-960,"y":84,"width":250,"height":92},
+		{"id":"1dd7f1675734e345","type":"text","text":"Box is resurrected and becomes God of Greed","x":98,"y":76,"width":285,"height":100},
+		{"id":"c4fca625ad5a548f","type":"text","text":"The group forms Echos of The Ancients. A syndicate made to terrorize the locals and draw the attention of the Gods to eventually kill them.","x":-195,"y":280,"width":300,"height":160},
+		{"id":"2843a4cf1dca7cf0","type":"text","text":"Bewilderson the Moth God makes a deal with the Droppodecus to work for him in exchange for MAGIC SHINANIGANS","x":-420,"y":550,"width":250,"height":140},
+		{"id":"2c2d6e2857c77695","type":"text","text":"The two meet up in Marigis coven below Firelink to conduct a ritual to summon BoxPaulJones spirit from the astral planes. Using dark primal magic.","x":-170,"y":-230,"width":250,"height":200},
+		{"id":"6ca16f0915617903","type":"text","text":"A tear in reality is created at Firelink causing confusion.","x":220,"y":-180,"width":250,"height":100},
+		{"id":"b5a524dd5dc3df50","type":"text","text":"Droppodecus starts documenting events in a book.","x":-960,"y":-520,"width":250,"height":100},
+		{"id":"bd8aa41b747d7948","type":"text","text":"Marigi spirals into insanity and becomes a sleep paralysis demon in the time skip","x":-640,"y":-10,"width":250,"height":132},
+		{"id":"4eac9658f4669063","type":"text","text":"Droppodecus wakes up from his nap, after the time skip.","x":-640,"y":-180,"width":250,"height":110}
+	],
+	"edges":[
+		{"id":"4c23db568ab8e07e","fromNode":"f3bc5c638c3eeb62","fromSide":"right","toNode":"d0908eaf8643a4da","toSide":"left"},
+		{"id":"7839e716f47e4b55","fromNode":"2c2d6e2857c77695","fromSide":"right","toNode":"6ca16f0915617903","toSide":"left"},
+		{"id":"b6b6095ddaa6367c","fromNode":"6ca16f0915617903","fromSide":"bottom","toNode":"1dd7f1675734e345","toSide":"top"},
+		{"id":"ff623e23ae456b52","fromNode":"c4fca625ad5a548f","fromSide":"right","toNode":"f3bc5c638c3eeb62","toSide":"left"},
+		{"id":"159bf34f06ce0cdd","fromNode":"1dd7f1675734e345","fromSide":"left","toNode":"c4fca625ad5a548f","toSide":"top"},
+		{"id":"1bdfd4fa73905581","fromNode":"2c2d6e2857c77695","fromSide":"bottom","toNode":"c4fca625ad5a548f","toSide":"top"},
+		{"id":"09a899cacd5462e7","fromNode":"fd274906aa667a56","fromSide":"right","toNode":"58369eb1f2c9cc83","toSide":"left"},
+		{"id":"1914822c7615f93b","fromNode":"1d9654d83e871eb9","fromSide":"right","toNode":"b5a524dd5dc3df50","toSide":"left"},
+		{"id":"cc597237d4750083","fromNode":"1d9654d83e871eb9","fromSide":"bottom","toNode":"701ee5a0043d0f43","toSide":"top"},
+		{"id":"f7d6924ff8c4a1a2","fromNode":"701ee5a0043d0f43","fromSide":"bottom","toNode":"fd274906aa667a56","toSide":"top"},
+		{"id":"565dd76de00e83d8","fromNode":"58369eb1f2c9cc83","fromSide":"right","toNode":"bd8aa41b747d7948","toSide":"left"},
+		{"id":"1194b598f50a10d0","fromNode":"fd274906aa667a56","fromSide":"right","toNode":"4eac9658f4669063","toSide":"left"},
+		{"id":"02fccd9f68df2f11","fromNode":"2843a4cf1dca7cf0","fromSide":"right","toNode":"c4fca625ad5a548f","toSide":"bottom"},
+		{"id":"7610351a6da5d82c","fromNode":"bd8aa41b747d7948","fromSide":"right","toNode":"2c2d6e2857c77695","toSide":"left"},
+		{"id":"49cd9063406b8422","fromNode":"4eac9658f4669063","fromSide":"right","toNode":"2c2d6e2857c77695","toSide":"left"}
+	]
+}
